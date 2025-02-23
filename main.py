@@ -47,6 +47,8 @@ def run() -> tuple[bool, bool]:
     # Get the possible data.
     raw_user, raw_summary = api.fetch_data(username, token)
 
+    print(f"${raw_summary}")
+    
     # Transform them into our internal schema.
     user = User(**raw_user)
     summaries = [Summary(**summary) for summary in raw_summary["summaries"]]
