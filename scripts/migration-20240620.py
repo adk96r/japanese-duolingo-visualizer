@@ -4,19 +4,20 @@
 from json import load
 from os import path
 from pathlib import Path
+from typing import Optional
 
 from src.database import Database
 from src.schema import BaseSchema, DatabaseEntry
 
 
 class Experience(BaseSchema):
-    xp_goal: int
-    xp_today: int
+    xp_goal: Optional[int]
+    xp_today: Optional[int]
 
 
 class SessionInformation(BaseSchema):
-    number_of_sessions: int
-    session_time: int
+    number_of_sessions: Optional[int]
+    session_time: Optional[int]
 
 
 class Progression(BaseSchema):
@@ -55,10 +56,10 @@ def main():
         data.date: (
             DatabaseEntry(
                 date=data.date,
-                xp_today=data.progression.experience.xp_today,
-                number_of_sessions=data.progression.session_information.number_of_sessions,
-                session_time=data.progression.session_information.session_time,
-                streak=data.streak_information.site_streak,
+                xp_today=data.progression.experience.xp_today or 0,
+                number_of_sessions=data.progression.session_information.number_of_sessions or 0,
+                session_time=data.progression.session_information.session_time or 0,
+                streak=data.streak_information.site_streak or 0,
             )
         )
         for data in parsed_old_database

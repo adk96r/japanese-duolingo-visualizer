@@ -1,7 +1,7 @@
 from datetime import datetime
 
 from pydantic import BaseModel, ConfigDict, Field, field_validator
-
+from typing import Optional
 
 class BaseSchema(BaseModel):
     model_config = ConfigDict(populate_by_name=True)
@@ -9,9 +9,9 @@ class BaseSchema(BaseModel):
 
 class Summary(BaseSchema):
     date: str = Field(alias="date")
-    gained_xp: int = Field(alias="gainedXp")
-    num_sessions: int = Field(alias="numSessions")
-    total_session_time: int = Field(alias="totalSessionTime")
+    gained_xp: Optional[int] = Field(alias="gainedXp")
+    num_sessions: Optional[int] = Field(alias="numSessions")
+    total_session_time: Optional[int] = Field(alias="totalSessionTime")
 
     @field_validator("date", mode="before")
     @classmethod

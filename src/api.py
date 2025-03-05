@@ -71,12 +71,28 @@ class APIClient:
             )
 
         return response.headers["jwt"]
+    
+    def replace_none_with_zero(self, data):
+        if isinstance(data, dict):
+            return {key: self.replace_none_with_zero(value) for key, value in data.items()}
+        elif isinstance(data, list):
+            return [self.replace_none_with_zero(item) for item in data]
+        elif data is None:
+            return 0
+        return data  # Keep other values unchanged
+
 
     def fetch_data(self, username: str, token: str) -> tuple[JsonValue, JsonValue]:
         user_url = f"{self.base_url}/users/{username}"
+        print(f"Fetching data", user_url)
         user_response_data = self.request(user_url, token).json()
 
+        
         summary_url = f"{self.base_url}/2017-06-30/users/{user_response_data['id']}/xp_summaries?startDate=1970-01-01"
+        
         summary_response_data = self.request(summary_url, token).json()
+        summary = self.replace_none_with_zero(summary_response_data)
+        print(f"Fetching data", summary)
 
-        return (user_response_data, summary_response_data)
+        return (user_response_data, summary)
+
