@@ -84,15 +84,9 @@ class APIClient:
 
     def fetch_data(self, username: str, token: str) -> tuple[JsonValue, JsonValue]:
         user_url = f"{self.base_url}/users/{username}"
-        print(f"Fetching data", user_url)
         user_response_data = self.request(user_url, token).json()
-
-        
         summary_url = f"{self.base_url}/2017-06-30/users/{user_response_data['id']}/xp_summaries?startDate=1970-01-01"
-        
         summary_response_data = self.request(summary_url, token).json()
         summary = self.replace_none_with_zero(summary_response_data)
-        print(f"Fetching data", summary)
-
         return (user_response_data, summary)
 
