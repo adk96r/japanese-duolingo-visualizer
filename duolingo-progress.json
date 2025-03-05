@@ -1,1 +1,6224 @@
-{}
+{
+  "2022/05/04": {
+    "number_of_sessions": 20,
+    "session_time": 2602,
+    "streak": 1,
+    "xp_today": 373
+  },
+  "2022/05/05": {
+    "number_of_sessions": 14,
+    "session_time": 2310,
+    "streak": 2,
+    "xp_today": 181
+  },
+  "2022/05/06": {
+    "number_of_sessions": 13,
+    "session_time": 2424,
+    "streak": 3,
+    "xp_today": 173
+  },
+  "2022/05/07": {
+    "number_of_sessions": 25,
+    "session_time": 4435,
+    "streak": 4,
+    "xp_today": 339
+  },
+  "2022/05/08": {
+    "number_of_sessions": 1,
+    "session_time": 177,
+    "streak": 5,
+    "xp_today": 13
+  },
+  "2022/05/09": {
+    "number_of_sessions": 21,
+    "session_time": 3288,
+    "streak": 6,
+    "xp_today": 275
+  },
+  "2022/05/10": {
+    "number_of_sessions": 17,
+    "session_time": 3787,
+    "streak": 7,
+    "xp_today": 222
+  },
+  "2022/05/11": {
+    "number_of_sessions": 41,
+    "session_time": 8239,
+    "streak": 8,
+    "xp_today": 654
+  },
+  "2022/05/12": {
+    "number_of_sessions": 21,
+    "session_time": 5146,
+    "streak": 9,
+    "xp_today": 303
+  },
+  "2022/05/13": {
+    "number_of_sessions": 2,
+    "session_time": 433,
+    "streak": 10,
+    "xp_today": 26
+  },
+  "2022/05/14": {
+    "number_of_sessions": 18,
+    "session_time": 4623,
+    "streak": 11,
+    "xp_today": 236
+  },
+  "2022/05/15": {
+    "number_of_sessions": 3,
+    "session_time": 612,
+    "streak": 12,
+    "xp_today": 85
+  },
+  "2022/05/16": {
+    "number_of_sessions": 3,
+    "session_time": 608,
+    "streak": 13,
+    "xp_today": 36
+  },
+  "2022/05/17": {
+    "number_of_sessions": 4,
+    "session_time": 882,
+    "streak": 14,
+    "xp_today": 50
+  },
+  "2022/05/18": {
+    "number_of_sessions": 8,
+    "session_time": 2574,
+    "streak": 15,
+    "xp_today": 102
+  },
+  "2022/05/19": {
+    "number_of_sessions": 4,
+    "session_time": 1146,
+    "streak": 16,
+    "xp_today": 51
+  },
+  "2022/05/20": {
+    "number_of_sessions": 4,
+    "session_time": 925,
+    "streak": 17,
+    "xp_today": 47
+  },
+  "2022/05/21": {
+    "number_of_sessions": 6,
+    "session_time": 1447,
+    "streak": 18,
+    "xp_today": 79
+  },
+  "2022/05/22": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 19,
+    "xp_today": 0
+  },
+  "2022/05/23": {
+    "number_of_sessions": 3,
+    "session_time": 357,
+    "streak": 20,
+    "xp_today": 43
+  },
+  "2022/05/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 21,
+    "xp_today": 0
+  },
+  "2022/05/25": {
+    "number_of_sessions": 6,
+    "session_time": 1875,
+    "streak": 22,
+    "xp_today": 77
+  },
+  "2022/05/26": {
+    "number_of_sessions": 8,
+    "session_time": 2415,
+    "streak": 23,
+    "xp_today": 102
+  },
+  "2022/05/27": {
+    "number_of_sessions": 6,
+    "session_time": 1701,
+    "streak": 24,
+    "xp_today": 72
+  },
+  "2022/05/28": {
+    "number_of_sessions": 15,
+    "session_time": 5039,
+    "streak": 25,
+    "xp_today": 208
+  },
+  "2022/05/29": {
+    "number_of_sessions": 17,
+    "session_time": 3342,
+    "streak": 26,
+    "xp_today": 219
+  },
+  "2022/05/30": {
+    "number_of_sessions": 12,
+    "session_time": 3820,
+    "streak": 27,
+    "xp_today": 157
+  },
+  "2022/05/31": {
+    "number_of_sessions": 8,
+    "session_time": 1775,
+    "streak": 28,
+    "xp_today": 103
+  },
+  "2022/06/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 29,
+    "xp_today": 0
+  },
+  "2022/06/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/06/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/06/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/06/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/06/06": {
+    "number_of_sessions": 14,
+    "session_time": 4195,
+    "streak": 1,
+    "xp_today": 174
+  },
+  "2022/06/07": {
+    "number_of_sessions": 4,
+    "session_time": 945,
+    "streak": 2,
+    "xp_today": 52
+  },
+  "2022/06/08": {
+    "number_of_sessions": 20,
+    "session_time": 6886,
+    "streak": 3,
+    "xp_today": 259
+  },
+  "2022/06/09": {
+    "number_of_sessions": 14,
+    "session_time": 3634,
+    "streak": 4,
+    "xp_today": 168
+  },
+  "2022/06/10": {
+    "number_of_sessions": 8,
+    "session_time": 3428,
+    "streak": 5,
+    "xp_today": 100
+  },
+  "2022/06/11": {
+    "number_of_sessions": 19,
+    "session_time": 4873,
+    "streak": 6,
+    "xp_today": 353
+  },
+  "2022/06/12": {
+    "number_of_sessions": 25,
+    "session_time": 5813,
+    "streak": 7,
+    "xp_today": 397
+  },
+  "2022/06/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 8,
+    "xp_today": 0
+  },
+  "2022/06/14": {
+    "number_of_sessions": 15,
+    "session_time": 3801,
+    "streak": 9,
+    "xp_today": 196
+  },
+  "2022/06/15": {
+    "number_of_sessions": 8,
+    "session_time": 1628,
+    "streak": 10,
+    "xp_today": 104
+  },
+  "2022/06/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 11,
+    "xp_today": 0
+  },
+  "2022/06/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/06/18": {
+    "number_of_sessions": 22,
+    "session_time": 3750,
+    "streak": 1,
+    "xp_today": 288
+  },
+  "2022/06/19": {
+    "number_of_sessions": 18,
+    "session_time": 4420,
+    "streak": 2,
+    "xp_today": 237
+  },
+  "2022/06/20": {
+    "number_of_sessions": 23,
+    "session_time": 5336,
+    "streak": 3,
+    "xp_today": 299
+  },
+  "2022/06/21": {
+    "number_of_sessions": 16,
+    "session_time": 3129,
+    "streak": 4,
+    "xp_today": 263
+  },
+  "2022/06/22": {
+    "number_of_sessions": 9,
+    "session_time": 2520,
+    "streak": 5,
+    "xp_today": 113
+  },
+  "2022/06/23": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 6,
+    "xp_today": 0
+  },
+  "2022/06/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 7,
+    "xp_today": 0
+  },
+  "2022/06/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/06/26": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/06/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/06/28": {
+    "number_of_sessions": 8,
+    "session_time": 2565,
+    "streak": 1,
+    "xp_today": 98
+  },
+  "2022/06/29": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 2,
+    "xp_today": 0
+  },
+  "2022/06/30": {
+    "number_of_sessions": 8,
+    "session_time": 1981,
+    "streak": 3,
+    "xp_today": 105
+  },
+  "2022/07/01": {
+    "number_of_sessions": 5,
+    "session_time": 1405,
+    "streak": 4,
+    "xp_today": 64
+  },
+  "2022/07/02": {
+    "number_of_sessions": 4,
+    "session_time": 1276,
+    "streak": 5,
+    "xp_today": 49
+  },
+  "2022/07/03": {
+    "number_of_sessions": 29,
+    "session_time": 7178,
+    "streak": 6,
+    "xp_today": 362
+  },
+  "2022/07/04": {
+    "number_of_sessions": 6,
+    "session_time": 1275,
+    "streak": 7,
+    "xp_today": 81
+  },
+  "2022/07/05": {
+    "number_of_sessions": 15,
+    "session_time": 3506,
+    "streak": 8,
+    "xp_today": 202
+  },
+  "2022/07/06": {
+    "number_of_sessions": 15,
+    "session_time": 2812,
+    "streak": 9,
+    "xp_today": 264
+  },
+  "2022/07/07": {
+    "number_of_sessions": 4,
+    "session_time": 1400,
+    "streak": 10,
+    "xp_today": 53
+  },
+  "2022/07/08": {
+    "number_of_sessions": 21,
+    "session_time": 4199,
+    "streak": 11,
+    "xp_today": 346
+  },
+  "2022/07/09": {
+    "number_of_sessions": 49,
+    "session_time": 13068,
+    "streak": 12,
+    "xp_today": 1106
+  },
+  "2022/07/10": {
+    "number_of_sessions": 17,
+    "session_time": 3803,
+    "streak": 13,
+    "xp_today": 367
+  },
+  "2022/07/11": {
+    "number_of_sessions": 5,
+    "session_time": 1470,
+    "streak": 14,
+    "xp_today": 64
+  },
+  "2022/07/12": {
+    "number_of_sessions": 16,
+    "session_time": 2997,
+    "streak": 15,
+    "xp_today": 343
+  },
+  "2022/07/13": {
+    "number_of_sessions": 13,
+    "session_time": 4993,
+    "streak": 16,
+    "xp_today": 165
+  },
+  "2022/07/14": {
+    "number_of_sessions": 13,
+    "session_time": 4216,
+    "streak": 17,
+    "xp_today": 306
+  },
+  "2022/07/15": {
+    "number_of_sessions": 12,
+    "session_time": 3210,
+    "streak": 18,
+    "xp_today": 160
+  },
+  "2022/07/16": {
+    "number_of_sessions": 13,
+    "session_time": 2596,
+    "streak": 19,
+    "xp_today": 309
+  },
+  "2022/07/17": {
+    "number_of_sessions": 18,
+    "session_time": 6054,
+    "streak": 20,
+    "xp_today": 317
+  },
+  "2022/07/18": {
+    "number_of_sessions": 13,
+    "session_time": 2838,
+    "streak": 21,
+    "xp_today": 306
+  },
+  "2022/07/19": {
+    "number_of_sessions": 17,
+    "session_time": 5334,
+    "streak": 22,
+    "xp_today": 217
+  },
+  "2022/07/20": {
+    "number_of_sessions": 13,
+    "session_time": 2769,
+    "streak": 23,
+    "xp_today": 304
+  },
+  "2022/07/21": {
+    "number_of_sessions": 10,
+    "session_time": 3688,
+    "streak": 24,
+    "xp_today": 131
+  },
+  "2022/07/22": {
+    "number_of_sessions": 43,
+    "session_time": 9380,
+    "streak": 25,
+    "xp_today": 1025
+  },
+  "2022/07/23": {
+    "number_of_sessions": 11,
+    "session_time": 4787,
+    "streak": 26,
+    "xp_today": 142
+  },
+  "2022/07/24": {
+    "number_of_sessions": 13,
+    "session_time": 3329,
+    "streak": 27,
+    "xp_today": 306
+  },
+  "2022/07/25": {
+    "number_of_sessions": 9,
+    "session_time": 3154,
+    "streak": 28,
+    "xp_today": 113
+  },
+  "2022/07/26": {
+    "number_of_sessions": 17,
+    "session_time": 3616,
+    "streak": 29,
+    "xp_today": 472
+  },
+  "2022/07/27": {
+    "number_of_sessions": 114,
+    "session_time": 11620,
+    "streak": 30,
+    "xp_today": 2317
+  },
+  "2022/07/28": {
+    "number_of_sessions": 39,
+    "session_time": 5584,
+    "streak": 31,
+    "xp_today": 917
+  },
+  "2022/07/29": {
+    "number_of_sessions": 12,
+    "session_time": 3468,
+    "streak": 32,
+    "xp_today": 154
+  },
+  "2022/07/30": {
+    "number_of_sessions": 12,
+    "session_time": 2754,
+    "streak": 33,
+    "xp_today": 284
+  },
+  "2022/07/31": {
+    "number_of_sessions": 34,
+    "session_time": 7202,
+    "streak": 34,
+    "xp_today": 544
+  },
+  "2022/08/01": {
+    "number_of_sessions": 26,
+    "session_time": 5651,
+    "streak": 35,
+    "xp_today": 631
+  },
+  "2022/08/02": {
+    "number_of_sessions": 35,
+    "session_time": 6911,
+    "streak": 36,
+    "xp_today": 627
+  },
+  "2022/08/03": {
+    "number_of_sessions": 12,
+    "session_time": 2198,
+    "streak": 37,
+    "xp_today": 289
+  },
+  "2022/08/04": {
+    "number_of_sessions": 9,
+    "session_time": 2656,
+    "streak": 38,
+    "xp_today": 114
+  },
+  "2022/08/05": {
+    "number_of_sessions": 16,
+    "session_time": 3120,
+    "streak": 39,
+    "xp_today": 353
+  },
+  "2022/08/06": {
+    "number_of_sessions": 63,
+    "session_time": 10093,
+    "streak": 40,
+    "xp_today": 980
+  },
+  "2022/08/07": {
+    "number_of_sessions": 25,
+    "session_time": 4412,
+    "streak": 41,
+    "xp_today": 512
+  },
+  "2022/08/08": {
+    "number_of_sessions": 6,
+    "session_time": 1738,
+    "streak": 42,
+    "xp_today": 77
+  },
+  "2022/08/09": {
+    "number_of_sessions": 15,
+    "session_time": 3125,
+    "streak": 43,
+    "xp_today": 315
+  },
+  "2022/08/10": {
+    "number_of_sessions": 18,
+    "session_time": 4623,
+    "streak": 44,
+    "xp_today": 240
+  },
+  "2022/08/11": {
+    "number_of_sessions": 19,
+    "session_time": 2464,
+    "streak": 45,
+    "xp_today": 408
+  },
+  "2022/08/12": {
+    "number_of_sessions": 15,
+    "session_time": 4025,
+    "streak": 46,
+    "xp_today": 194
+  },
+  "2022/08/13": {
+    "number_of_sessions": 15,
+    "session_time": 2675,
+    "streak": 47,
+    "xp_today": 325
+  },
+  "2022/08/14": {
+    "number_of_sessions": 18,
+    "session_time": 3948,
+    "streak": 48,
+    "xp_today": 232
+  },
+  "2022/08/15": {
+    "number_of_sessions": 18,
+    "session_time": 3791,
+    "streak": 49,
+    "xp_today": 373
+  },
+  "2022/08/16": {
+    "number_of_sessions": 15,
+    "session_time": 6234,
+    "streak": 50,
+    "xp_today": 186
+  },
+  "2022/08/17": {
+    "number_of_sessions": 16,
+    "session_time": 3056,
+    "streak": 51,
+    "xp_today": 351
+  },
+  "2022/08/18": {
+    "number_of_sessions": 12,
+    "session_time": 3291,
+    "streak": 52,
+    "xp_today": 149
+  },
+  "2022/08/19": {
+    "number_of_sessions": 15,
+    "session_time": 2680,
+    "streak": 53,
+    "xp_today": 341
+  },
+  "2022/08/20": {
+    "number_of_sessions": 9,
+    "session_time": 3282,
+    "streak": 54,
+    "xp_today": 116
+  },
+  "2022/08/21": {
+    "number_of_sessions": 11,
+    "session_time": 2494,
+    "streak": 55,
+    "xp_today": 247
+  },
+  "2022/08/22": {
+    "number_of_sessions": 12,
+    "session_time": 3444,
+    "streak": 56,
+    "xp_today": 154
+  },
+  "2022/08/23": {
+    "number_of_sessions": 15,
+    "session_time": 2286,
+    "streak": 57,
+    "xp_today": 348
+  },
+  "2022/08/24": {
+    "number_of_sessions": 30,
+    "session_time": 3605,
+    "streak": 58,
+    "xp_today": 518
+  },
+  "2022/08/25": {
+    "number_of_sessions": 12,
+    "session_time": 3340,
+    "streak": 59,
+    "xp_today": 157
+  },
+  "2022/08/26": {
+    "number_of_sessions": 14,
+    "session_time": 2591,
+    "streak": 60,
+    "xp_today": 319
+  },
+  "2022/08/27": {
+    "number_of_sessions": 6,
+    "session_time": 2575,
+    "streak": 61,
+    "xp_today": 77
+  },
+  "2022/08/28": {
+    "number_of_sessions": 26,
+    "session_time": 5604,
+    "streak": 62,
+    "xp_today": 482
+  },
+  "2022/08/29": {
+    "number_of_sessions": 1,
+    "session_time": 322,
+    "streak": 63,
+    "xp_today": 12
+  },
+  "2022/08/30": {
+    "number_of_sessions": 4,
+    "session_time": 1344,
+    "streak": 64,
+    "xp_today": 52
+  },
+  "2022/08/31": {
+    "number_of_sessions": 26,
+    "session_time": 4699,
+    "streak": 65,
+    "xp_today": 488
+  },
+  "2022/09/01": {
+    "number_of_sessions": 21,
+    "session_time": 5430,
+    "streak": 66,
+    "xp_today": 392
+  },
+  "2022/09/02": {
+    "number_of_sessions": 3,
+    "session_time": 1148,
+    "streak": 67,
+    "xp_today": 38
+  },
+  "2022/09/03": {
+    "number_of_sessions": 23,
+    "session_time": 5309,
+    "streak": 68,
+    "xp_today": 433
+  },
+  "2022/09/04": {
+    "number_of_sessions": 18,
+    "session_time": 4088,
+    "streak": 69,
+    "xp_today": 243
+  },
+  "2022/09/05": {
+    "number_of_sessions": 16,
+    "session_time": 2408,
+    "streak": 70,
+    "xp_today": 361
+  },
+  "2022/09/06": {
+    "number_of_sessions": 4,
+    "session_time": 1886,
+    "streak": 71,
+    "xp_today": 49
+  },
+  "2022/09/07": {
+    "number_of_sessions": 1,
+    "session_time": 195,
+    "streak": 72,
+    "xp_today": 14
+  },
+  "2022/09/08": {
+    "number_of_sessions": 1,
+    "session_time": 207,
+    "streak": 73,
+    "xp_today": 12
+  },
+  "2022/09/09": {
+    "number_of_sessions": 22,
+    "session_time": 4779,
+    "streak": 74,
+    "xp_today": 441
+  },
+  "2022/09/10": {
+    "number_of_sessions": 5,
+    "session_time": 1698,
+    "streak": 75,
+    "xp_today": 63
+  },
+  "2022/09/11": {
+    "number_of_sessions": 40,
+    "session_time": 9572,
+    "streak": 76,
+    "xp_today": 730
+  },
+  "2022/09/12": {
+    "number_of_sessions": 12,
+    "session_time": 4186,
+    "streak": 77,
+    "xp_today": 148
+  },
+  "2022/09/13": {
+    "number_of_sessions": 6,
+    "session_time": 1199,
+    "streak": 78,
+    "xp_today": 76
+  },
+  "2022/09/14": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 79,
+    "xp_today": 0
+  },
+  "2022/09/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 80,
+    "xp_today": 0
+  },
+  "2022/09/16": {
+    "number_of_sessions": 18,
+    "session_time": 4193,
+    "streak": 81,
+    "xp_today": 409
+  },
+  "2022/09/17": {
+    "number_of_sessions": 21,
+    "session_time": 3529,
+    "streak": 82,
+    "xp_today": 411
+  },
+  "2022/09/18": {
+    "number_of_sessions": 7,
+    "session_time": 2149,
+    "streak": 83,
+    "xp_today": 90
+  },
+  "2022/09/19": {
+    "number_of_sessions": 23,
+    "session_time": 4314,
+    "streak": 84,
+    "xp_today": 433
+  },
+  "2022/09/20": {
+    "number_of_sessions": 8,
+    "session_time": 2952,
+    "streak": 85,
+    "xp_today": 101
+  },
+  "2022/09/21": {
+    "number_of_sessions": 28,
+    "session_time": 5942,
+    "streak": 86,
+    "xp_today": 529
+  },
+  "2022/09/22": {
+    "number_of_sessions": 17,
+    "session_time": 2887,
+    "streak": 87,
+    "xp_today": 352
+  },
+  "2022/09/23": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 88,
+    "xp_today": 0
+  },
+  "2022/09/24": {
+    "number_of_sessions": 45,
+    "session_time": 11836,
+    "streak": 89,
+    "xp_today": 737
+  },
+  "2022/09/25": {
+    "number_of_sessions": 22,
+    "session_time": 3432,
+    "streak": 90,
+    "xp_today": 428
+  },
+  "2022/09/26": {
+    "number_of_sessions": 16,
+    "session_time": 5332,
+    "streak": 91,
+    "xp_today": 213
+  },
+  "2022/09/27": {
+    "number_of_sessions": 16,
+    "session_time": 2931,
+    "streak": 92,
+    "xp_today": 350
+  },
+  "2022/09/28": {
+    "number_of_sessions": 22,
+    "session_time": 5808,
+    "streak": 93,
+    "xp_today": 406
+  },
+  "2022/09/29": {
+    "number_of_sessions": 1,
+    "session_time": 183,
+    "streak": 94,
+    "xp_today": 10
+  },
+  "2022/09/30": {
+    "number_of_sessions": 5,
+    "session_time": 2540,
+    "streak": 95,
+    "xp_today": 66
+  },
+  "2022/10/01": {
+    "number_of_sessions": 26,
+    "session_time": 6202,
+    "streak": 96,
+    "xp_today": 475
+  },
+  "2022/10/02": {
+    "number_of_sessions": 1,
+    "session_time": 370,
+    "streak": 97,
+    "xp_today": 12
+  },
+  "2022/10/03": {
+    "number_of_sessions": 14,
+    "session_time": 4681,
+    "streak": 98,
+    "xp_today": 175
+  },
+  "2022/10/04": {
+    "number_of_sessions": 17,
+    "session_time": 3229,
+    "streak": 99,
+    "xp_today": 363
+  },
+  "2022/10/05": {
+    "number_of_sessions": 2,
+    "session_time": 421,
+    "streak": 100,
+    "xp_today": 24
+  },
+  "2022/10/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 101,
+    "xp_today": 0
+  },
+  "2022/10/07": {
+    "number_of_sessions": 2,
+    "session_time": 642,
+    "streak": 102,
+    "xp_today": 26
+  },
+  "2022/10/08": {
+    "number_of_sessions": 17,
+    "session_time": 3549,
+    "streak": 103,
+    "xp_today": 326
+  },
+  "2022/10/09": {
+    "number_of_sessions": 8,
+    "session_time": 2177,
+    "streak": 104,
+    "xp_today": 236
+  },
+  "2022/10/10": {
+    "number_of_sessions": 36,
+    "session_time": 4824,
+    "streak": 105,
+    "xp_today": 749
+  },
+  "2022/10/11": {
+    "number_of_sessions": 49,
+    "session_time": 9733,
+    "streak": 106,
+    "xp_today": 1475
+  },
+  "2022/10/12": {
+    "number_of_sessions": 50,
+    "session_time": 7611,
+    "streak": 107,
+    "xp_today": 959
+  },
+  "2022/10/13": {
+    "number_of_sessions": 1,
+    "session_time": 136,
+    "streak": 108,
+    "xp_today": 12
+  },
+  "2022/10/14": {
+    "number_of_sessions": 2,
+    "session_time": 299,
+    "streak": 109,
+    "xp_today": 26
+  },
+  "2022/10/15": {
+    "number_of_sessions": 11,
+    "session_time": 4251,
+    "streak": 110,
+    "xp_today": 145
+  },
+  "2022/10/16": {
+    "number_of_sessions": 28,
+    "session_time": 4970,
+    "streak": 111,
+    "xp_today": 597
+  },
+  "2022/10/17": {
+    "number_of_sessions": 12,
+    "session_time": 1242,
+    "streak": 112,
+    "xp_today": 265
+  },
+  "2022/10/18": {
+    "number_of_sessions": 3,
+    "session_time": 551,
+    "streak": 113,
+    "xp_today": 38
+  },
+  "2022/10/19": {
+    "number_of_sessions": 2,
+    "session_time": 287,
+    "streak": 114,
+    "xp_today": 26
+  },
+  "2022/10/20": {
+    "number_of_sessions": 19,
+    "session_time": 2393,
+    "streak": 115,
+    "xp_today": 391
+  },
+  "2022/10/21": {
+    "number_of_sessions": 14,
+    "session_time": 1499,
+    "streak": 116,
+    "xp_today": 289
+  },
+  "2022/10/22": {
+    "number_of_sessions": 30,
+    "session_time": 4012,
+    "streak": 117,
+    "xp_today": 532
+  },
+  "2022/10/23": {
+    "number_of_sessions": 21,
+    "session_time": 3063,
+    "streak": 118,
+    "xp_today": 418
+  },
+  "2022/10/24": {
+    "number_of_sessions": 22,
+    "session_time": 3237,
+    "streak": 119,
+    "xp_today": 421
+  },
+  "2022/10/25": {
+    "number_of_sessions": 25,
+    "session_time": 3069,
+    "streak": 120,
+    "xp_today": 477
+  },
+  "2022/10/26": {
+    "number_of_sessions": 20,
+    "session_time": 2114,
+    "streak": 121,
+    "xp_today": 406
+  },
+  "2022/10/27": {
+    "number_of_sessions": 15,
+    "session_time": 2157,
+    "streak": 122,
+    "xp_today": 296
+  },
+  "2022/10/28": {
+    "number_of_sessions": 28,
+    "session_time": 4980,
+    "streak": 123,
+    "xp_today": 540
+  },
+  "2022/10/29": {
+    "number_of_sessions": 13,
+    "session_time": 2992,
+    "streak": 124,
+    "xp_today": 226
+  },
+  "2022/10/30": {
+    "number_of_sessions": 9,
+    "session_time": 986,
+    "streak": 125,
+    "xp_today": 340
+  },
+  "2022/10/31": {
+    "number_of_sessions": 20,
+    "session_time": 2349,
+    "streak": 126,
+    "xp_today": 620
+  },
+  "2022/11/01": {
+    "number_of_sessions": 18,
+    "session_time": 1852,
+    "streak": 127,
+    "xp_today": 680
+  },
+  "2022/11/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 128,
+    "xp_today": 0
+  },
+  "2022/11/03": {
+    "number_of_sessions": 7,
+    "session_time": 1327,
+    "streak": 129,
+    "xp_today": 160
+  },
+  "2022/11/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 130,
+    "xp_today": 0
+  },
+  "2022/11/05": {
+    "number_of_sessions": 5,
+    "session_time": 690,
+    "streak": 131,
+    "xp_today": 100
+  },
+  "2022/11/06": {
+    "number_of_sessions": 1,
+    "session_time": 392,
+    "streak": 132,
+    "xp_today": 40
+  },
+  "2022/11/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 133,
+    "xp_today": 0
+  },
+  "2022/11/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 134,
+    "xp_today": 0
+  },
+  "2022/11/09": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 135,
+    "xp_today": 0
+  },
+  "2022/11/10": {
+    "number_of_sessions": 1,
+    "session_time": 302,
+    "streak": 136,
+    "xp_today": 7
+  },
+  "2022/11/11": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 137,
+    "xp_today": 7
+  },
+  "2022/11/12": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 138,
+    "xp_today": 0
+  },
+  "2022/11/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 139,
+    "xp_today": 0
+  },
+  "2022/11/14": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/11/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/11/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/11/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/11/18": {
+    "number_of_sessions": 2,
+    "session_time": 552,
+    "streak": 1,
+    "xp_today": 40
+  },
+  "2022/11/19": {
+    "number_of_sessions": 12,
+    "session_time": 3723,
+    "streak": 2,
+    "xp_today": 314
+  },
+  "2022/11/20": {
+    "number_of_sessions": 7,
+    "session_time": 2838,
+    "streak": 3,
+    "xp_today": 211
+  },
+  "2022/11/21": {
+    "number_of_sessions": 13,
+    "session_time": 2737,
+    "streak": 4,
+    "xp_today": 316
+  },
+  "2022/11/22": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 5,
+    "xp_today": 0
+  },
+  "2022/11/23": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/11/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/11/25": {
+    "number_of_sessions": 1,
+    "session_time": 374,
+    "streak": 1,
+    "xp_today": 20
+  },
+  "2022/11/26": {
+    "number_of_sessions": 1,
+    "session_time": 276,
+    "streak": 2,
+    "xp_today": 20
+  },
+  "2022/11/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/11/28": {
+    "number_of_sessions": 4,
+    "session_time": 1301,
+    "streak": 1,
+    "xp_today": 127
+  },
+  "2022/11/29": {
+    "number_of_sessions": 2,
+    "session_time": 728,
+    "streak": 2,
+    "xp_today": 40
+  },
+  "2022/11/30": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 3,
+    "xp_today": 0
+  },
+  "2022/12/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/12/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/12/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/12/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/12/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/12/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/12/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/12/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/12/09": {
+    "number_of_sessions": 1,
+    "session_time": 28,
+    "streak": 1,
+    "xp_today": 15
+  },
+  "2022/12/10": {
+    "number_of_sessions": 23,
+    "session_time": 3353,
+    "streak": 2,
+    "xp_today": 915
+  },
+  "2022/12/11": {
+    "number_of_sessions": 1,
+    "session_time": 341,
+    "streak": 3,
+    "xp_today": 15
+  },
+  "2022/12/12": {
+    "number_of_sessions": 7,
+    "session_time": 1927,
+    "streak": 4,
+    "xp_today": 125
+  },
+  "2022/12/13": {
+    "number_of_sessions": 20,
+    "session_time": 3660,
+    "streak": 5,
+    "xp_today": 456
+  },
+  "2022/12/14": {
+    "number_of_sessions": 15,
+    "session_time": 2670,
+    "streak": 6,
+    "xp_today": 332
+  },
+  "2022/12/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 7,
+    "xp_today": 0
+  },
+  "2022/12/16": {
+    "number_of_sessions": 1,
+    "session_time": 219,
+    "streak": 8,
+    "xp_today": 11
+  },
+  "2022/12/17": {
+    "number_of_sessions": 3,
+    "session_time": 739,
+    "streak": 9,
+    "xp_today": 35
+  },
+  "2022/12/18": {
+    "number_of_sessions": 22,
+    "session_time": 2759,
+    "streak": 10,
+    "xp_today": 490
+  },
+  "2022/12/19": {
+    "number_of_sessions": 12,
+    "session_time": 1699,
+    "streak": 11,
+    "xp_today": 265
+  },
+  "2022/12/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 12,
+    "xp_today": 0
+  },
+  "2022/12/21": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 13,
+    "xp_today": 0
+  },
+  "2022/12/22": {
+    "number_of_sessions": 20,
+    "session_time": 2844,
+    "streak": 14,
+    "xp_today": 743
+  },
+  "2022/12/23": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 15,
+    "xp_today": 0
+  },
+  "2022/12/24": {
+    "number_of_sessions": 1,
+    "session_time": 203,
+    "streak": 16,
+    "xp_today": 14
+  },
+  "2022/12/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 17,
+    "xp_today": 0
+  },
+  "2022/12/26": {
+    "number_of_sessions": 3,
+    "session_time": 597,
+    "streak": 18,
+    "xp_today": 67
+  },
+  "2022/12/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 19,
+    "xp_today": 0
+  },
+  "2022/12/28": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2022/12/29": {
+    "number_of_sessions": 2,
+    "session_time": 606,
+    "streak": 1,
+    "xp_today": 30
+  },
+  "2022/12/30": {
+    "number_of_sessions": 1,
+    "session_time": 140,
+    "streak": 2,
+    "xp_today": 13
+  },
+  "2022/12/31": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 3,
+    "xp_today": 0
+  },
+  "2023/01/01": {
+    "number_of_sessions": 5,
+    "session_time": 1406,
+    "streak": 4,
+    "xp_today": 117
+  },
+  "2023/01/02": {
+    "number_of_sessions": 8,
+    "session_time": 1873,
+    "streak": 5,
+    "xp_today": 144
+  },
+  "2023/01/03": {
+    "number_of_sessions": 1,
+    "session_time": 242,
+    "streak": 6,
+    "xp_today": 15
+  },
+  "2023/01/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 7,
+    "xp_today": 0
+  },
+  "2023/01/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 8,
+    "xp_today": 0
+  },
+  "2023/01/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/01/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/01/08": {
+    "number_of_sessions": 1,
+    "session_time": 246,
+    "streak": 1,
+    "xp_today": 5
+  },
+  "2023/01/09": {
+    "number_of_sessions": 2,
+    "session_time": 774,
+    "streak": 2,
+    "xp_today": 15
+  },
+  "2023/01/10": {
+    "number_of_sessions": 2,
+    "session_time": 750,
+    "streak": 3,
+    "xp_today": 10
+  },
+  "2023/01/11": {
+    "number_of_sessions": 1,
+    "session_time": 169,
+    "streak": 4,
+    "xp_today": 5
+  },
+  "2023/01/12": {
+    "number_of_sessions": 3,
+    "session_time": 422,
+    "streak": 5,
+    "xp_today": 25
+  },
+  "2023/01/13": {
+    "number_of_sessions": 1,
+    "session_time": 124,
+    "streak": 6,
+    "xp_today": 5
+  },
+  "2023/01/14": {
+    "number_of_sessions": 8,
+    "session_time": 1452,
+    "streak": 7,
+    "xp_today": 65
+  },
+  "2023/01/15": {
+    "number_of_sessions": 14,
+    "session_time": 2025,
+    "streak": 8,
+    "xp_today": 188
+  },
+  "2023/01/16": {
+    "number_of_sessions": 9,
+    "session_time": 1379,
+    "streak": 9,
+    "xp_today": 201
+  },
+  "2023/01/17": {
+    "number_of_sessions": 12,
+    "session_time": 2025,
+    "streak": 10,
+    "xp_today": 187
+  },
+  "2023/01/18": {
+    "number_of_sessions": 4,
+    "session_time": 556,
+    "streak": 11,
+    "xp_today": 67
+  },
+  "2023/01/19": {
+    "number_of_sessions": 15,
+    "session_time": 2640,
+    "streak": 12,
+    "xp_today": 627
+  },
+  "2023/01/20": {
+    "number_of_sessions": 1,
+    "session_time": 298,
+    "streak": 13,
+    "xp_today": 5
+  },
+  "2023/01/21": {
+    "number_of_sessions": 2,
+    "session_time": 491,
+    "streak": 14,
+    "xp_today": 15
+  },
+  "2023/01/22": {
+    "number_of_sessions": 9,
+    "session_time": 1693,
+    "streak": 15,
+    "xp_today": 108
+  },
+  "2023/01/23": {
+    "number_of_sessions": 32,
+    "session_time": 5310,
+    "streak": 16,
+    "xp_today": 880
+  },
+  "2023/01/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 17,
+    "xp_today": 0
+  },
+  "2023/01/25": {
+    "number_of_sessions": 7,
+    "session_time": 1596,
+    "streak": 18,
+    "xp_today": 258
+  },
+  "2023/01/26": {
+    "number_of_sessions": 19,
+    "session_time": 4670,
+    "streak": 19,
+    "xp_today": 572
+  },
+  "2023/01/27": {
+    "number_of_sessions": 15,
+    "session_time": 1937,
+    "streak": 20,
+    "xp_today": 410
+  },
+  "2023/01/28": {
+    "number_of_sessions": 2,
+    "session_time": 229,
+    "streak": 21,
+    "xp_today": 30
+  },
+  "2023/01/29": {
+    "number_of_sessions": 2,
+    "session_time": 555,
+    "streak": 22,
+    "xp_today": 40
+  },
+  "2023/01/30": {
+    "number_of_sessions": 3,
+    "session_time": 1554,
+    "streak": 23,
+    "xp_today": 53
+  },
+  "2023/01/31": {
+    "number_of_sessions": 6,
+    "session_time": 981,
+    "streak": 24,
+    "xp_today": 240
+  },
+  "2023/02/01": {
+    "number_of_sessions": 8,
+    "session_time": 2168,
+    "streak": 25,
+    "xp_today": 184
+  },
+  "2023/02/02": {
+    "number_of_sessions": 11,
+    "session_time": 2120,
+    "streak": 26,
+    "xp_today": 242
+  },
+  "2023/02/03": {
+    "number_of_sessions": 1,
+    "session_time": 329,
+    "streak": 27,
+    "xp_today": 20
+  },
+  "2023/02/04": {
+    "number_of_sessions": 4,
+    "session_time": 1004,
+    "streak": 28,
+    "xp_today": 58
+  },
+  "2023/02/05": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 29,
+    "xp_today": 23
+  },
+  "2023/02/06": {
+    "number_of_sessions": 13,
+    "session_time": 2788,
+    "streak": 30,
+    "xp_today": 309
+  },
+  "2023/02/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 31,
+    "xp_today": 0
+  },
+  "2023/02/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 32,
+    "xp_today": 0
+  },
+  "2023/02/09": {
+    "number_of_sessions": 1,
+    "session_time": 205,
+    "streak": 33,
+    "xp_today": 20
+  },
+  "2023/02/10": {
+    "number_of_sessions": 3,
+    "session_time": 527,
+    "streak": 34,
+    "xp_today": 60
+  },
+  "2023/02/11": {
+    "number_of_sessions": 1,
+    "session_time": 186,
+    "streak": 35,
+    "xp_today": 20
+  },
+  "2023/02/12": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 36,
+    "xp_today": 20
+  },
+  "2023/02/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 37,
+    "xp_today": 0
+  },
+  "2023/02/14": {
+    "number_of_sessions": 1,
+    "session_time": 235,
+    "streak": 38,
+    "xp_today": 20
+  },
+  "2023/02/15": {
+    "number_of_sessions": 20,
+    "session_time": 3959,
+    "streak": 39,
+    "xp_today": 450
+  },
+  "2023/02/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 40,
+    "xp_today": 0
+  },
+  "2023/02/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 41,
+    "xp_today": 0
+  },
+  "2023/02/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/02/19": {
+    "number_of_sessions": 8,
+    "session_time": 1742,
+    "streak": 1,
+    "xp_today": 184
+  },
+  "2023/02/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/02/21": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/02/22": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/02/23": {
+    "number_of_sessions": 6,
+    "session_time": 1224,
+    "streak": 1,
+    "xp_today": 143
+  },
+  "2023/02/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/02/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/02/26": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/02/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/02/28": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/02": {
+    "number_of_sessions": 4,
+    "session_time": 753,
+    "streak": 1,
+    "xp_today": 80
+  },
+  "2023/03/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/09": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/10": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/11": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/12": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/14": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/19": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/21": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/22": {
+    "number_of_sessions": 3,
+    "session_time": 973,
+    "streak": 1,
+    "xp_today": 60
+  },
+  "2023/03/23": {
+    "number_of_sessions": 2,
+    "session_time": 550,
+    "streak": 2,
+    "xp_today": 63
+  },
+  "2023/03/24": {
+    "number_of_sessions": 4,
+    "session_time": 722,
+    "streak": 3,
+    "xp_today": 98
+  },
+  "2023/03/25": {
+    "number_of_sessions": 3,
+    "session_time": 627,
+    "streak": 4,
+    "xp_today": 60
+  },
+  "2023/03/26": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 5,
+    "xp_today": 0
+  },
+  "2023/03/27": {
+    "number_of_sessions": 1,
+    "session_time": 101,
+    "streak": 6,
+    "xp_today": 15
+  },
+  "2023/03/28": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 7,
+    "xp_today": 0
+  },
+  "2023/03/29": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 8,
+    "xp_today": 0
+  },
+  "2023/03/30": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/03/31": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/05": {
+    "number_of_sessions": 20,
+    "session_time": 4222,
+    "streak": 1,
+    "xp_today": 480
+  },
+  "2023/04/06": {
+    "number_of_sessions": 4,
+    "session_time": 789,
+    "streak": 2,
+    "xp_today": 100
+  },
+  "2023/04/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 3,
+    "xp_today": 0
+  },
+  "2023/04/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 4,
+    "xp_today": 0
+  },
+  "2023/04/09": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/10": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/11": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/12": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/14": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/19": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/21": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/22": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/23": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/26": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/28": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/29": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/04/30": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/09": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/10": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/11": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/12": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/14": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/19": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/21": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/22": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/23": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/26": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/28": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/05/29": {
+    "number_of_sessions": 12,
+    "session_time": 2771,
+    "streak": 1,
+    "xp_today": 232
+  },
+  "2023/05/30": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 2,
+    "xp_today": 0
+  },
+  "2023/05/31": {
+    "number_of_sessions": 3,
+    "session_time": 640,
+    "streak": 3,
+    "xp_today": 60
+  },
+  "2023/06/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 4,
+    "xp_today": 0
+  },
+  "2023/06/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/09": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/10": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/11": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/12": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/14": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/19": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/21": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/22": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/23": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/26": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/28": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/29": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/06/30": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/09": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/10": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/11": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/12": {
+    "number_of_sessions": 1,
+    "session_time": 59,
+    "streak": 1,
+    "xp_today": 15
+  },
+  "2023/07/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 2,
+    "xp_today": 0
+  },
+  "2023/07/14": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 3,
+    "xp_today": 0
+  },
+  "2023/07/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/19": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/21": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/22": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/23": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 1,
+    "xp_today": 0
+  },
+  "2023/07/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/26": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/28": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/29": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/30": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/07/31": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/09": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/10": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/11": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/12": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/14": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/19": {
+    "number_of_sessions": 3,
+    "session_time": 664,
+    "streak": 1,
+    "xp_today": 89
+  },
+  "2023/08/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 2,
+    "xp_today": 0
+  },
+  "2023/08/21": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 3,
+    "xp_today": 0
+  },
+  "2023/08/22": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/23": {
+    "number_of_sessions": 7,
+    "session_time": 1637,
+    "streak": 1,
+    "xp_today": 282
+  },
+  "2023/08/24": {
+    "number_of_sessions": 5,
+    "session_time": 726,
+    "streak": 2,
+    "xp_today": 218
+  },
+  "2023/08/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 3,
+    "xp_today": 0
+  },
+  "2023/08/26": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 4,
+    "xp_today": 0
+  },
+  "2023/08/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/28": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/29": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/30": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/08/31": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/02": {
+    "number_of_sessions": 5,
+    "session_time": 751,
+    "streak": 1,
+    "xp_today": 256
+  },
+  "2023/09/03": {
+    "number_of_sessions": 2,
+    "session_time": 812,
+    "streak": 2,
+    "xp_today": 65
+  },
+  "2023/09/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 3,
+    "xp_today": 0
+  },
+  "2023/09/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 4,
+    "xp_today": 0
+  },
+  "2023/09/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/07": {
+    "number_of_sessions": 4,
+    "session_time": 906,
+    "streak": 1,
+    "xp_today": 297
+  },
+  "2023/09/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 2,
+    "xp_today": 0
+  },
+  "2023/09/09": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 3,
+    "xp_today": 0
+  },
+  "2023/09/10": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/11": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/12": {
+    "number_of_sessions": 3,
+    "session_time": 636,
+    "streak": 1,
+    "xp_today": 127
+  },
+  "2023/09/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 2,
+    "xp_today": 0
+  },
+  "2023/09/14": {
+    "number_of_sessions": 6,
+    "session_time": 1263,
+    "streak": 3,
+    "xp_today": 264
+  },
+  "2023/09/15": {
+    "number_of_sessions": 1,
+    "session_time": 302,
+    "streak": 4,
+    "xp_today": 42
+  },
+  "2023/09/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 5,
+    "xp_today": 0
+  },
+  "2023/09/17": {
+    "number_of_sessions": 3,
+    "session_time": 804,
+    "streak": 6,
+    "xp_today": 127
+  },
+  "2023/09/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 7,
+    "xp_today": 0
+  },
+  "2023/09/19": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 8,
+    "xp_today": 0
+  },
+  "2023/09/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 9,
+    "xp_today": 0
+  },
+  "2023/09/21": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/22": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/23": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/26": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/28": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/29": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/09/30": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/09": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/10": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/11": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/12": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/14": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/19": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/21": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/22": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/23": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/26": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/28": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/29": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/30": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/10/31": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/09": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/10": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/11": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/12": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/14": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/11/19": {
+    "number_of_sessions": 2,
+    "session_time": 716,
+    "streak": 1,
+    "xp_today": 30
+  },
+  "2023/11/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 2,
+    "xp_today": 0
+  },
+  "2023/11/21": {
+    "number_of_sessions": 3,
+    "session_time": 1009,
+    "streak": 3,
+    "xp_today": 60
+  },
+  "2023/11/22": {
+    "number_of_sessions": 8,
+    "session_time": 4259,
+    "streak": 4,
+    "xp_today": 160
+  },
+  "2023/11/23": {
+    "number_of_sessions": 4,
+    "session_time": 2360,
+    "streak": 5,
+    "xp_today": 63
+  },
+  "2023/11/24": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 6,
+    "xp_today": 15
+  },
+  "2023/11/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 7,
+    "xp_today": 0
+  },
+  "2023/11/26": {
+    "number_of_sessions": 5,
+    "session_time": 2782,
+    "streak": 8,
+    "xp_today": 78
+  },
+  "2023/11/27": {
+    "number_of_sessions": 30,
+    "session_time": 12614,
+    "streak": 9,
+    "xp_today": 686
+  },
+  "2023/11/28": {
+    "number_of_sessions": 6,
+    "session_time": 2357,
+    "streak": 10,
+    "xp_today": 171
+  },
+  "2023/11/29": {
+    "number_of_sessions": 29,
+    "session_time": 13611,
+    "streak": 11,
+    "xp_today": 464
+  },
+  "2023/11/30": {
+    "number_of_sessions": 40,
+    "session_time": 16693,
+    "streak": 12,
+    "xp_today": 633
+  },
+  "2023/12/01": {
+    "number_of_sessions": 22,
+    "session_time": 8904,
+    "streak": 13,
+    "xp_today": 423
+  },
+  "2023/12/02": {
+    "number_of_sessions": 51,
+    "session_time": 21103,
+    "streak": 14,
+    "xp_today": 881
+  },
+  "2023/12/03": {
+    "number_of_sessions": 20,
+    "session_time": 8520,
+    "streak": 15,
+    "xp_today": 375
+  },
+  "2023/12/04": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 16,
+    "xp_today": 15
+  },
+  "2023/12/05": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 17,
+    "xp_today": 13
+  },
+  "2023/12/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 18,
+    "xp_today": 0
+  },
+  "2023/12/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 19,
+    "xp_today": 0
+  },
+  "2023/12/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 20,
+    "xp_today": 0
+  },
+  "2023/12/09": {
+    "number_of_sessions": 14,
+    "session_time": 6501,
+    "streak": 21,
+    "xp_today": 239
+  },
+  "2023/12/10": {
+    "number_of_sessions": 25,
+    "session_time": 10523,
+    "streak": 22,
+    "xp_today": 427
+  },
+  "2023/12/11": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 23,
+    "xp_today": 0
+  },
+  "2023/12/12": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 24,
+    "xp_today": 20
+  },
+  "2023/12/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 25,
+    "xp_today": 0
+  },
+  "2023/12/14": {
+    "number_of_sessions": 4,
+    "session_time": 1763,
+    "streak": 26,
+    "xp_today": 73
+  },
+  "2023/12/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 27,
+    "xp_today": 0
+  },
+  "2023/12/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 28,
+    "xp_today": 0
+  },
+  "2023/12/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/19": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/21": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/22": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/23": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/26": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/28": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/29": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2023/12/30": {
+    "number_of_sessions": 1,
+    "session_time": 304,
+    "streak": 1,
+    "xp_today": 17
+  },
+  "2023/12/31": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 2,
+    "xp_today": 0
+  },
+  "2024/01/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 3,
+    "xp_today": 0
+  },
+  "2024/01/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2024/01/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2024/01/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2024/01/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2024/01/06": {
+    "number_of_sessions": 6,
+    "session_time": 1397,
+    "streak": 1,
+    "xp_today": 288
+  },
+  "2024/01/07": {
+    "number_of_sessions": 1,
+    "session_time": 88,
+    "streak": 2,
+    "xp_today": 20
+  },
+  "2024/01/08": {
+    "number_of_sessions": 3,
+    "session_time": 542,
+    "streak": 3,
+    "xp_today": 60
+  },
+  "2024/01/09": {
+    "number_of_sessions": 1,
+    "session_time": 206,
+    "streak": 4,
+    "xp_today": 13
+  },
+  "2024/01/10": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 5,
+    "xp_today": 0
+  },
+  "2024/01/11": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 6,
+    "xp_today": 0
+  },
+  "2024/01/12": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2024/01/13": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2024/01/14": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2024/01/15": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2024/01/16": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2024/01/17": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 0,
+    "xp_today": 0
+  },
+  "2024/01/18": {
+    "number_of_sessions": 5,
+    "session_time": 2144,
+    "streak": 1,
+    "xp_today": 150
+  },
+  "2024/01/19": {
+    "number_of_sessions": 3,
+    "session_time": 378,
+    "streak": 2,
+    "xp_today": 60
+  },
+  "2024/01/20": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 3,
+    "xp_today": 20
+  },
+  "2024/01/21": {
+    "number_of_sessions": 1,
+    "session_time": 456,
+    "streak": 4,
+    "xp_today": 15
+  },
+  "2024/01/22": {
+    "number_of_sessions": 2,
+    "session_time": 1040,
+    "streak": 5,
+    "xp_today": 37
+  },
+  "2024/01/23": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 6,
+    "xp_today": 14
+  },
+  "2024/01/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 7,
+    "xp_today": 0
+  },
+  "2024/01/25": {
+    "number_of_sessions": 1,
+    "session_time": 453,
+    "streak": 8,
+    "xp_today": 13
+  },
+  "2024/01/26": {
+    "number_of_sessions": 7,
+    "session_time": 1581,
+    "streak": 9,
+    "xp_today": 171
+  },
+  "2024/01/27": {
+    "number_of_sessions": 15,
+    "session_time": 2265,
+    "streak": 10,
+    "xp_today": 864
+  },
+  "2024/01/28": {
+    "number_of_sessions": 1,
+    "session_time": 168,
+    "streak": 11,
+    "xp_today": 20
+  },
+  "2024/01/29": {
+    "number_of_sessions": 13,
+    "session_time": 3984,
+    "streak": 12,
+    "xp_today": 645
+  },
+  "2024/01/30": {
+    "number_of_sessions": 9,
+    "session_time": 2691,
+    "streak": 13,
+    "xp_today": 188
+  },
+  "2024/01/31": {
+    "number_of_sessions": 11,
+    "session_time": 4430,
+    "streak": 14,
+    "xp_today": 225
+  },
+  "2024/02/01": {
+    "number_of_sessions": 1,
+    "session_time": 105,
+    "streak": 15,
+    "xp_today": 20
+  },
+  "2024/02/02": {
+    "number_of_sessions": 7,
+    "session_time": 3532,
+    "streak": 16,
+    "xp_today": 127
+  },
+  "2024/02/03": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 17,
+    "xp_today": 48
+  },
+  "2024/02/04": {
+    "number_of_sessions": 3,
+    "session_time": 621,
+    "streak": 18,
+    "xp_today": 37
+  },
+  "2024/02/05": {
+    "number_of_sessions": 5,
+    "session_time": 1789,
+    "streak": 19,
+    "xp_today": 90
+  },
+  "2024/02/06": {
+    "number_of_sessions": 7,
+    "session_time": 3364,
+    "streak": 20,
+    "xp_today": 125
+  },
+  "2024/02/07": {
+    "number_of_sessions": 3,
+    "session_time": 790,
+    "streak": 21,
+    "xp_today": 100
+  },
+  "2024/02/08": {
+    "number_of_sessions": 9,
+    "session_time": 4064,
+    "streak": 22,
+    "xp_today": 214
+  },
+  "2024/02/09": {
+    "number_of_sessions": 32,
+    "session_time": 6666,
+    "streak": 23,
+    "xp_today": 654
+  },
+  "2024/02/10": {
+    "number_of_sessions": 6,
+    "session_time": 2900,
+    "streak": 24,
+    "xp_today": 121
+  },
+  "2024/02/11": {
+    "number_of_sessions": 12,
+    "session_time": 5707,
+    "streak": 25,
+    "xp_today": 230
+  },
+  "2024/02/12": {
+    "number_of_sessions": 3,
+    "session_time": 477,
+    "streak": 26,
+    "xp_today": 60
+  },
+  "2024/02/13": {
+    "number_of_sessions": 13,
+    "session_time": 4841,
+    "streak": 27,
+    "xp_today": 261
+  },
+  "2024/02/14": {
+    "number_of_sessions": 4,
+    "session_time": 1348,
+    "streak": 28,
+    "xp_today": 144
+  },
+  "2024/02/15": {
+    "number_of_sessions": 25,
+    "session_time": 12290,
+    "streak": 29,
+    "xp_today": 475
+  },
+  "2024/02/16": {
+    "number_of_sessions": 8,
+    "session_time": 825,
+    "streak": 30,
+    "xp_today": 112
+  },
+  "2024/02/17": {
+    "number_of_sessions": 15,
+    "session_time": 5828,
+    "streak": 31,
+    "xp_today": 316
+  },
+  "2024/02/18": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 32,
+    "xp_today": 15
+  },
+  "2024/02/19": {
+    "number_of_sessions": 1,
+    "session_time": 253,
+    "streak": 33,
+    "xp_today": 20
+  },
+  "2024/02/20": {
+    "number_of_sessions": 7,
+    "session_time": 2948,
+    "streak": 34,
+    "xp_today": 121
+  },
+  "2024/02/21": {
+    "number_of_sessions": 33,
+    "session_time": 13685,
+    "streak": 35,
+    "xp_today": 614
+  },
+  "2024/02/22": {
+    "number_of_sessions": 16,
+    "session_time": 5614,
+    "streak": 36,
+    "xp_today": 312
+  },
+  "2024/02/23": {
+    "number_of_sessions": 24,
+    "session_time": 10454,
+    "streak": 37,
+    "xp_today": 384
+  },
+  "2024/02/24": {
+    "number_of_sessions": 10,
+    "session_time": 3518,
+    "streak": 38,
+    "xp_today": 235
+  },
+  "2024/02/25": {
+    "number_of_sessions": 18,
+    "session_time": 8253,
+    "streak": 39,
+    "xp_today": 378
+  },
+  "2024/02/26": {
+    "number_of_sessions": 1,
+    "session_time": 95,
+    "streak": 40,
+    "xp_today": 10
+  },
+  "2024/02/27": {
+    "number_of_sessions": 2,
+    "session_time": 921,
+    "streak": 41,
+    "xp_today": 29
+  },
+  "2024/02/28": {
+    "number_of_sessions": 4,
+    "session_time": 1269,
+    "streak": 42,
+    "xp_today": 52
+  },
+  "2024/02/29": {
+    "number_of_sessions": 2,
+    "session_time": 294,
+    "streak": 43,
+    "xp_today": 35
+  },
+  "2024/03/01": {
+    "number_of_sessions": 1,
+    "session_time": 143,
+    "streak": 44,
+    "xp_today": 20
+  },
+  "2024/03/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 45,
+    "xp_today": 0
+  },
+  "2024/03/03": {
+    "number_of_sessions": 1,
+    "session_time": 60,
+    "streak": 46,
+    "xp_today": 20
+  },
+  "2024/03/04": {
+    "number_of_sessions": 1,
+    "session_time": 169,
+    "streak": 47,
+    "xp_today": 20
+  },
+  "2024/03/05": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 48,
+    "xp_today": 16
+  },
+  "2024/03/06": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 49,
+    "xp_today": 15
+  },
+  "2024/03/07": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 50,
+    "xp_today": 15
+  },
+  "2024/03/08": {
+    "number_of_sessions": 1,
+    "session_time": 64,
+    "streak": 51,
+    "xp_today": 10
+  },
+  "2024/03/09": {
+    "number_of_sessions": 8,
+    "session_time": 4153,
+    "streak": 52,
+    "xp_today": 185
+  },
+  "2024/03/10": {
+    "number_of_sessions": 1,
+    "session_time": 443,
+    "streak": 53,
+    "xp_today": 15
+  },
+  "2024/03/11": {
+    "number_of_sessions": 1,
+    "session_time": 47,
+    "streak": 54,
+    "xp_today": 10
+  },
+  "2024/03/12": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 55,
+    "xp_today": 0
+  },
+  "2024/03/13": {
+    "number_of_sessions": 6,
+    "session_time": 597,
+    "streak": 56,
+    "xp_today": 96
+  },
+  "2024/03/14": {
+    "number_of_sessions": 2,
+    "session_time": 646,
+    "streak": 57,
+    "xp_today": 39
+  },
+  "2024/03/15": {
+    "number_of_sessions": 3,
+    "session_time": 1500,
+    "streak": 58,
+    "xp_today": 40
+  },
+  "2024/03/16": {
+    "number_of_sessions": 1,
+    "session_time": 351,
+    "streak": 59,
+    "xp_today": 18
+  },
+  "2024/03/17": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 60,
+    "xp_today": 15
+  },
+  "2024/03/18": {
+    "number_of_sessions": 1,
+    "session_time": 392,
+    "streak": 61,
+    "xp_today": 25
+  },
+  "2024/03/19": {
+    "number_of_sessions": 7,
+    "session_time": 2324,
+    "streak": 62,
+    "xp_today": 185
+  },
+  "2024/03/20": {
+    "number_of_sessions": 6,
+    "session_time": 3330,
+    "streak": 63,
+    "xp_today": 106
+  },
+  "2024/03/21": {
+    "number_of_sessions": 1,
+    "session_time": 346,
+    "streak": 64,
+    "xp_today": 14
+  },
+  "2024/03/22": {
+    "number_of_sessions": 13,
+    "session_time": 6599,
+    "streak": 65,
+    "xp_today": 281
+  },
+  "2024/03/23": {
+    "number_of_sessions": 6,
+    "session_time": 1857,
+    "streak": 66,
+    "xp_today": 111
+  },
+  "2024/03/24": {
+    "number_of_sessions": 9,
+    "session_time": 4636,
+    "streak": 67,
+    "xp_today": 153
+  },
+  "2024/03/25": {
+    "number_of_sessions": 17,
+    "session_time": 7160,
+    "streak": 68,
+    "xp_today": 371
+  },
+  "2024/03/26": {
+    "number_of_sessions": 6,
+    "session_time": 2425,
+    "streak": 69,
+    "xp_today": 99
+  },
+  "2024/03/27": {
+    "number_of_sessions": 6,
+    "session_time": 2029,
+    "streak": 70,
+    "xp_today": 118
+  },
+  "2024/03/28": {
+    "number_of_sessions": 8,
+    "session_time": 4068,
+    "streak": 71,
+    "xp_today": 194
+  },
+  "2024/03/29": {
+    "number_of_sessions": 9,
+    "session_time": 4365,
+    "streak": 72,
+    "xp_today": 150
+  },
+  "2024/03/30": {
+    "number_of_sessions": 1,
+    "session_time": 118,
+    "streak": 73,
+    "xp_today": 15
+  },
+  "2024/03/31": {
+    "number_of_sessions": 3,
+    "session_time": 1242,
+    "streak": 74,
+    "xp_today": 48
+  },
+  "2024/04/01": {
+    "number_of_sessions": 4,
+    "session_time": 1264,
+    "streak": 75,
+    "xp_today": 68
+  },
+  "2024/04/02": {
+    "number_of_sessions": 6,
+    "session_time": 3185,
+    "streak": 76,
+    "xp_today": 124
+  },
+  "2024/04/03": {
+    "number_of_sessions": 1,
+    "session_time": 75,
+    "streak": 77,
+    "xp_today": 10
+  },
+  "2024/04/04": {
+    "number_of_sessions": 9,
+    "session_time": 3715,
+    "streak": 78,
+    "xp_today": 149
+  },
+  "2024/04/05": {
+    "number_of_sessions": 1,
+    "session_time": 72,
+    "streak": 79,
+    "xp_today": 10
+  },
+  "2024/04/06": {
+    "number_of_sessions": 1,
+    "session_time": 326,
+    "streak": 80,
+    "xp_today": 19
+  },
+  "2024/04/07": {
+    "number_of_sessions": 15,
+    "session_time": 7406,
+    "streak": 81,
+    "xp_today": 351
+  },
+  "2024/04/08": {
+    "number_of_sessions": 14,
+    "session_time": 6901,
+    "streak": 82,
+    "xp_today": 299
+  },
+  "2024/04/09": {
+    "number_of_sessions": 6,
+    "session_time": 2245,
+    "streak": 83,
+    "xp_today": 129
+  },
+  "2024/04/10": {
+    "number_of_sessions": 1,
+    "session_time": 95,
+    "streak": 84,
+    "xp_today": 10
+  },
+  "2024/04/11": {
+    "number_of_sessions": 1,
+    "session_time": 92,
+    "streak": 85,
+    "xp_today": 10
+  },
+  "2024/04/12": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 86,
+    "xp_today": 15
+  },
+  "2024/04/13": {
+    "number_of_sessions": 1,
+    "session_time": 282,
+    "streak": 87,
+    "xp_today": 20
+  },
+  "2024/04/14": {
+    "number_of_sessions": 1,
+    "session_time": 83,
+    "streak": 88,
+    "xp_today": 10
+  },
+  "2024/04/15": {
+    "number_of_sessions": 1,
+    "session_time": 95,
+    "streak": 89,
+    "xp_today": 20
+  },
+  "2024/04/16": {
+    "number_of_sessions": 1,
+    "session_time": 198,
+    "streak": 90,
+    "xp_today": 20
+  },
+  "2024/04/17": {
+    "number_of_sessions": 5,
+    "session_time": 2092,
+    "streak": 91,
+    "xp_today": 116
+  },
+  "2024/04/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 92,
+    "xp_today": 0
+  },
+  "2024/04/19": {
+    "number_of_sessions": 6,
+    "session_time": 1576,
+    "streak": 93,
+    "xp_today": 103
+  },
+  "2024/04/20": {
+    "number_of_sessions": 6,
+    "session_time": 2037,
+    "streak": 94,
+    "xp_today": 174
+  },
+  "2024/04/21": {
+    "number_of_sessions": 1,
+    "session_time": 79,
+    "streak": 95,
+    "xp_today": 10
+  },
+  "2024/04/22": {
+    "number_of_sessions": 1,
+    "session_time": 285,
+    "streak": 96,
+    "xp_today": 13
+  },
+  "2024/04/23": {
+    "number_of_sessions": 6,
+    "session_time": 2825,
+    "streak": 97,
+    "xp_today": 95
+  },
+  "2024/04/24": {
+    "number_of_sessions": 1,
+    "session_time": 111,
+    "streak": 98,
+    "xp_today": 10
+  },
+  "2024/04/25": {
+    "number_of_sessions": 2,
+    "session_time": 1173,
+    "streak": 99,
+    "xp_today": 40
+  },
+  "2024/04/26": {
+    "number_of_sessions": 5,
+    "session_time": 1964,
+    "streak": 100,
+    "xp_today": 79
+  },
+  "2024/04/27": {
+    "number_of_sessions": 1,
+    "session_time": 83,
+    "streak": 101,
+    "xp_today": 15
+  },
+  "2024/04/28": {
+    "number_of_sessions": 9,
+    "session_time": 3008,
+    "streak": 102,
+    "xp_today": 168
+  },
+  "2024/04/29": {
+    "number_of_sessions": 8,
+    "session_time": 2959,
+    "streak": 103,
+    "xp_today": 262
+  },
+  "2024/04/30": {
+    "number_of_sessions": 4,
+    "session_time": 1913,
+    "streak": 104,
+    "xp_today": 90
+  },
+  "2024/05/01": {
+    "number_of_sessions": 1,
+    "session_time": 240,
+    "streak": 105,
+    "xp_today": 20
+  },
+  "2024/05/02": {
+    "number_of_sessions": 1,
+    "session_time": 366,
+    "streak": 106,
+    "xp_today": 13
+  },
+  "2024/05/03": {
+    "number_of_sessions": 1,
+    "session_time": 84,
+    "streak": 107,
+    "xp_today": 20
+  },
+  "2024/05/04": {
+    "number_of_sessions": 1,
+    "session_time": 404,
+    "streak": 108,
+    "xp_today": 38
+  },
+  "2024/05/05": {
+    "number_of_sessions": 5,
+    "session_time": 2047,
+    "streak": 109,
+    "xp_today": 100
+  },
+  "2024/05/06": {
+    "number_of_sessions": 6,
+    "session_time": 1839,
+    "streak": 110,
+    "xp_today": 144
+  },
+  "2024/05/07": {
+    "number_of_sessions": 12,
+    "session_time": 5832,
+    "streak": 111,
+    "xp_today": 427
+  },
+  "2024/05/08": {
+    "number_of_sessions": 3,
+    "session_time": 1734,
+    "streak": 112,
+    "xp_today": 106
+  },
+  "2024/05/09": {
+    "number_of_sessions": 2,
+    "session_time": 883,
+    "streak": 113,
+    "xp_today": 50
+  },
+  "2024/05/10": {
+    "number_of_sessions": 11,
+    "session_time": 4318,
+    "streak": 114,
+    "xp_today": 211
+  },
+  "2024/05/11": {
+    "number_of_sessions": 1,
+    "session_time": 71,
+    "streak": 115,
+    "xp_today": 15
+  },
+  "2024/05/12": {
+    "number_of_sessions": 1,
+    "session_time": 98,
+    "streak": 116,
+    "xp_today": 10
+  },
+  "2024/05/13": {
+    "number_of_sessions": 4,
+    "session_time": 548,
+    "streak": 117,
+    "xp_today": 80
+  },
+  "2024/05/14": {
+    "number_of_sessions": 1,
+    "session_time": 344,
+    "streak": 118,
+    "xp_today": 20
+  },
+  "2024/05/15": {
+    "number_of_sessions": 1,
+    "session_time": 257,
+    "streak": 119,
+    "xp_today": 29
+  },
+  "2024/05/16": {
+    "number_of_sessions": 1,
+    "session_time": 108,
+    "streak": 120,
+    "xp_today": 10
+  },
+  "2024/05/17": {
+    "number_of_sessions": 1,
+    "session_time": 102,
+    "streak": 121,
+    "xp_today": 10
+  },
+  "2024/05/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 122,
+    "xp_today": 0
+  },
+  "2024/05/19": {
+    "number_of_sessions": 1,
+    "session_time": 107,
+    "streak": 123,
+    "xp_today": 10
+  },
+  "2024/05/20": {
+    "number_of_sessions": 2,
+    "session_time": 135,
+    "streak": 124,
+    "xp_today": 15
+  },
+  "2024/05/21": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 125,
+    "xp_today": 14
+  },
+  "2024/05/22": {
+    "number_of_sessions": 1,
+    "session_time": 626,
+    "streak": 126,
+    "xp_today": 28
+  },
+  "2024/05/23": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 127,
+    "xp_today": 0
+  },
+  "2024/05/24": {
+    "number_of_sessions": 1,
+    "session_time": 260,
+    "streak": 128,
+    "xp_today": 30
+  },
+  "2024/05/25": {
+    "number_of_sessions": 2,
+    "session_time": 904,
+    "streak": 129,
+    "xp_today": 75
+  },
+  "2024/05/26": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 130,
+    "xp_today": 0
+  },
+  "2024/05/27": {
+    "number_of_sessions": 8,
+    "session_time": 2281,
+    "streak": 131,
+    "xp_today": 223
+  },
+  "2024/05/28": {
+    "number_of_sessions": 15,
+    "session_time": 5386,
+    "streak": 132,
+    "xp_today": 441
+  },
+  "2024/05/29": {
+    "number_of_sessions": 7,
+    "session_time": 2174,
+    "streak": 133,
+    "xp_today": 249
+  },
+  "2024/05/30": {
+    "number_of_sessions": 9,
+    "session_time": 2661,
+    "streak": 134,
+    "xp_today": 163
+  },
+  "2024/05/31": {
+    "number_of_sessions": 1,
+    "session_time": 407,
+    "streak": 135,
+    "xp_today": 33
+  },
+  "2024/06/01": {
+    "number_of_sessions": 3,
+    "session_time": 1466,
+    "streak": 136,
+    "xp_today": 99
+  },
+  "2024/06/02": {
+    "number_of_sessions": 9,
+    "session_time": 4073,
+    "streak": 137,
+    "xp_today": 228
+  },
+  "2024/06/03": {
+    "number_of_sessions": 3,
+    "session_time": 1737,
+    "streak": 138,
+    "xp_today": 62
+  },
+  "2024/06/04": {
+    "number_of_sessions": 3,
+    "session_time": 1671,
+    "streak": 139,
+    "xp_today": 48
+  },
+  "2024/06/05": {
+    "number_of_sessions": 4,
+    "session_time": 1885,
+    "streak": 140,
+    "xp_today": 116
+  },
+  "2024/06/06": {
+    "number_of_sessions": 9,
+    "session_time": 4761,
+    "streak": 141,
+    "xp_today": 314
+  },
+  "2024/06/07": {
+    "number_of_sessions": 6,
+    "session_time": 3543,
+    "streak": 142,
+    "xp_today": 258
+  },
+  "2024/06/08": {
+    "number_of_sessions": 2,
+    "session_time": 910,
+    "streak": 143,
+    "xp_today": 35
+  },
+  "2024/06/09": {
+    "number_of_sessions": 7,
+    "session_time": 4290,
+    "streak": 144,
+    "xp_today": 228
+  },
+  "2024/06/10": {
+    "number_of_sessions": 10,
+    "session_time": 4544,
+    "streak": 145,
+    "xp_today": 413
+  },
+  "2024/06/11": {
+    "number_of_sessions": 1,
+    "session_time": 254,
+    "streak": 146,
+    "xp_today": 20
+  },
+  "2024/06/12": {
+    "number_of_sessions": 1,
+    "session_time": 504,
+    "streak": 147,
+    "xp_today": 20
+  },
+  "2024/06/13": {
+    "number_of_sessions": 3,
+    "session_time": 712,
+    "streak": 148,
+    "xp_today": 48
+  },
+  "2024/06/14": {
+    "number_of_sessions": 2,
+    "session_time": 877,
+    "streak": 149,
+    "xp_today": 83
+  },
+  "2024/06/15": {
+    "number_of_sessions": 2,
+    "session_time": 854,
+    "streak": 150,
+    "xp_today": 70
+  },
+  "2024/06/16": {
+    "number_of_sessions": 1,
+    "session_time": 114,
+    "streak": 151,
+    "xp_today": 10
+  },
+  "2024/06/17": {
+    "number_of_sessions": 19,
+    "session_time": 10148,
+    "streak": 152,
+    "xp_today": 399
+  },
+  "2024/06/18": {
+    "number_of_sessions": 11,
+    "session_time": 5996,
+    "streak": 153,
+    "xp_today": 367
+  },
+  "2024/06/19": {
+    "number_of_sessions": 5,
+    "session_time": 2364,
+    "streak": 154,
+    "xp_today": 150
+  },
+  "2024/06/20": {
+    "number_of_sessions": 9,
+    "session_time": 3941,
+    "streak": 155,
+    "xp_today": 351
+  },
+  "2024/06/21": {
+    "number_of_sessions": 1,
+    "session_time": 145,
+    "streak": 156,
+    "xp_today": 20
+  },
+  "2024/06/22": {
+    "number_of_sessions": 4,
+    "session_time": 2557,
+    "streak": 157,
+    "xp_today": 135
+  },
+  "2024/06/23": {
+    "number_of_sessions": 21,
+    "session_time": 9199,
+    "streak": 158,
+    "xp_today": 838
+  },
+  "2024/06/24": {
+    "number_of_sessions": 1,
+    "session_time": 542,
+    "streak": 159,
+    "xp_today": 30
+  },
+  "2024/06/25": {
+    "number_of_sessions": 4,
+    "session_time": 1428,
+    "streak": 160,
+    "xp_today": 120
+  },
+  "2024/06/26": {
+    "number_of_sessions": 1,
+    "session_time": 259,
+    "streak": 161,
+    "xp_today": 20
+  },
+  "2024/06/27": {
+    "number_of_sessions": 1,
+    "session_time": 69,
+    "streak": 162,
+    "xp_today": 10
+  },
+  "2024/06/28": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 163,
+    "xp_today": 20
+  },
+  "2024/06/29": {
+    "number_of_sessions": 2,
+    "session_time": 1089,
+    "streak": 164,
+    "xp_today": 65
+  },
+  "2024/06/30": {
+    "number_of_sessions": 15,
+    "session_time": 7750,
+    "streak": 165,
+    "xp_today": 296
+  },
+  "2024/07/01": {
+    "number_of_sessions": 12,
+    "session_time": 5173,
+    "streak": 166,
+    "xp_today": 200
+  },
+  "2024/07/02": {
+    "number_of_sessions": 10,
+    "session_time": 5034,
+    "streak": 167,
+    "xp_today": 293
+  },
+  "2024/07/03": {
+    "number_of_sessions": 4,
+    "session_time": 1484,
+    "streak": 168,
+    "xp_today": 129
+  },
+  "2024/07/04": {
+    "number_of_sessions": 8,
+    "session_time": 3857,
+    "streak": 169,
+    "xp_today": 267
+  },
+  "2024/07/05": {
+    "number_of_sessions": 3,
+    "session_time": 1175,
+    "streak": 170,
+    "xp_today": 70
+  },
+  "2024/07/06": {
+    "number_of_sessions": 20,
+    "session_time": 9283,
+    "streak": 171,
+    "xp_today": 893
+  },
+  "2024/07/07": {
+    "number_of_sessions": 14,
+    "session_time": 6598,
+    "streak": 172,
+    "xp_today": 657
+  },
+  "2024/07/08": {
+    "number_of_sessions": 15,
+    "session_time": 8953,
+    "streak": 173,
+    "xp_today": 534
+  },
+  "2024/07/09": {
+    "number_of_sessions": 4,
+    "session_time": 2151,
+    "streak": 174,
+    "xp_today": 181
+  },
+  "2024/07/10": {
+    "number_of_sessions": 1,
+    "session_time": 69,
+    "streak": 175,
+    "xp_today": 10
+  },
+  "2024/07/11": {
+    "number_of_sessions": 1,
+    "session_time": 630,
+    "streak": 176,
+    "xp_today": 30
+  },
+  "2024/07/12": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 177,
+    "xp_today": 30
+  },
+  "2024/07/13": {
+    "number_of_sessions": 19,
+    "session_time": 10510,
+    "streak": 178,
+    "xp_today": 700
+  },
+  "2024/07/14": {
+    "number_of_sessions": 2,
+    "session_time": 1320,
+    "streak": 179,
+    "xp_today": 70
+  },
+  "2024/07/15": {
+    "number_of_sessions": 11,
+    "session_time": 7015,
+    "streak": 180,
+    "xp_today": 366
+  },
+  "2024/07/16": {
+    "number_of_sessions": 1,
+    "session_time": 115,
+    "streak": 181,
+    "xp_today": 10
+  },
+  "2024/07/17": {
+    "number_of_sessions": 8,
+    "session_time": 4274,
+    "streak": 182,
+    "xp_today": 343
+  },
+  "2024/07/18": {
+    "number_of_sessions": 1,
+    "session_time": 157,
+    "streak": 183,
+    "xp_today": 20
+  },
+  "2024/07/19": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 184,
+    "xp_today": 20
+  },
+  "2024/07/20": {
+    "number_of_sessions": 4,
+    "session_time": 1034,
+    "streak": 185,
+    "xp_today": 74
+  },
+  "2024/07/21": {
+    "number_of_sessions": 4,
+    "session_time": 2637,
+    "streak": 186,
+    "xp_today": 149
+  },
+  "2024/07/22": {
+    "number_of_sessions": 9,
+    "session_time": 4727,
+    "streak": 187,
+    "xp_today": 267
+  },
+  "2024/07/23": {
+    "number_of_sessions": 5,
+    "session_time": 2660,
+    "streak": 188,
+    "xp_today": 159
+  },
+  "2024/07/24": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 189,
+    "xp_today": 68
+  },
+  "2024/07/25": {
+    "number_of_sessions": 2,
+    "session_time": 989,
+    "streak": 190,
+    "xp_today": 65
+  },
+  "2024/07/26": {
+    "number_of_sessions": 3,
+    "session_time": 1244,
+    "streak": 191,
+    "xp_today": 93
+  },
+  "2024/07/27": {
+    "number_of_sessions": 1,
+    "session_time": 106,
+    "streak": 192,
+    "xp_today": 20
+  },
+  "2024/07/28": {
+    "number_of_sessions": 3,
+    "session_time": 1951,
+    "streak": 193,
+    "xp_today": 88
+  },
+  "2024/07/29": {
+    "number_of_sessions": 8,
+    "session_time": 4226,
+    "streak": 194,
+    "xp_today": 270
+  },
+  "2024/07/30": {
+    "number_of_sessions": 3,
+    "session_time": 1920,
+    "streak": 195,
+    "xp_today": 87
+  },
+  "2024/07/31": {
+    "number_of_sessions": 1,
+    "session_time": 103,
+    "streak": 196,
+    "xp_today": 10
+  },
+  "2024/08/01": {
+    "number_of_sessions": 3,
+    "session_time": 1500,
+    "streak": 197,
+    "xp_today": 128
+  },
+  "2024/08/02": {
+    "number_of_sessions": 3,
+    "session_time": 1186,
+    "streak": 198,
+    "xp_today": 123
+  },
+  "2024/08/03": {
+    "number_of_sessions": 9,
+    "session_time": 4488,
+    "streak": 199,
+    "xp_today": 464
+  },
+  "2024/08/04": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 200,
+    "xp_today": 30
+  },
+  "2024/08/05": {
+    "number_of_sessions": 1,
+    "session_time": 107,
+    "streak": 201,
+    "xp_today": 20
+  },
+  "2024/08/06": {
+    "number_of_sessions": 1,
+    "session_time": 301,
+    "streak": 202,
+    "xp_today": 30
+  },
+  "2024/08/07": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 203,
+    "xp_today": 30
+  },
+  "2024/08/08": {
+    "number_of_sessions": 2,
+    "session_time": 1039,
+    "streak": 204,
+    "xp_today": 61
+  },
+  "2024/08/09": {
+    "number_of_sessions": 11,
+    "session_time": 4920,
+    "streak": 205,
+    "xp_today": 374
+  },
+  "2024/08/10": {
+    "number_of_sessions": 1,
+    "session_time": 395,
+    "streak": 206,
+    "xp_today": 38
+  },
+  "2024/08/11": {
+    "number_of_sessions": 1,
+    "session_time": 89,
+    "streak": 207,
+    "xp_today": 10
+  },
+  "2024/08/12": {
+    "number_of_sessions": 3,
+    "session_time": 749,
+    "streak": 208,
+    "xp_today": 95
+  },
+  "2024/08/13": {
+    "number_of_sessions": 15,
+    "session_time": 2788,
+    "streak": 209,
+    "xp_today": 991
+  },
+  "2024/08/14": {
+    "number_of_sessions": 1,
+    "session_time": 363,
+    "streak": 210,
+    "xp_today": 10
+  },
+  "2024/08/15": {
+    "number_of_sessions": 1,
+    "session_time": 95,
+    "streak": 211,
+    "xp_today": 10
+  },
+  "2024/08/16": {
+    "number_of_sessions": 1,
+    "session_time": 54,
+    "streak": 212,
+    "xp_today": 10
+  },
+  "2024/08/17": {
+    "number_of_sessions": 1,
+    "session_time": 102,
+    "streak": 213,
+    "xp_today": 15
+  },
+  "2024/08/18": {
+    "number_of_sessions": 1,
+    "session_time": 275,
+    "streak": 214,
+    "xp_today": 34
+  },
+  "2024/08/19": {
+    "number_of_sessions": 6,
+    "session_time": 3264,
+    "streak": 215,
+    "xp_today": 223
+  },
+  "2024/08/20": {
+    "number_of_sessions": 1,
+    "session_time": 112,
+    "streak": 216,
+    "xp_today": 10
+  },
+  "2024/08/21": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 217,
+    "xp_today": 30
+  },
+  "2024/08/22": {
+    "number_of_sessions": 1,
+    "session_time": 221,
+    "streak": 218,
+    "xp_today": 35
+  },
+  "2024/08/23": {
+    "number_of_sessions": 3,
+    "session_time": 1456,
+    "streak": 219,
+    "xp_today": 103
+  },
+  "2024/08/24": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 220,
+    "xp_today": 15
+  },
+  "2024/08/25": {
+    "number_of_sessions": 1,
+    "session_time": 587,
+    "streak": 221,
+    "xp_today": 33
+  },
+  "2024/08/26": {
+    "number_of_sessions": 3,
+    "session_time": 780,
+    "streak": 222,
+    "xp_today": 170
+  },
+  "2024/08/27": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 223,
+    "xp_today": 0
+  },
+  "2024/08/28": {
+    "number_of_sessions": 6,
+    "session_time": 1396,
+    "streak": 224,
+    "xp_today": 251
+  },
+  "2024/08/29": {
+    "number_of_sessions": 6,
+    "session_time": 1176,
+    "streak": 225,
+    "xp_today": 296
+  },
+  "2024/08/30": {
+    "number_of_sessions": 1,
+    "session_time": 157,
+    "streak": 226,
+    "xp_today": 20
+  },
+  "2024/08/31": {
+    "number_of_sessions": 1,
+    "session_time": 100,
+    "streak": 227,
+    "xp_today": 15
+  },
+  "2024/09/01": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 228,
+    "xp_today": 20
+  },
+  "2024/09/02": {
+    "number_of_sessions": 16,
+    "session_time": 4010,
+    "streak": 229,
+    "xp_today": 623
+  },
+  "2024/09/03": {
+    "number_of_sessions": 10,
+    "session_time": 2230,
+    "streak": 230,
+    "xp_today": 400
+  },
+  "2024/09/04": {
+    "number_of_sessions": 1,
+    "session_time": 615,
+    "streak": 231,
+    "xp_today": 10
+  },
+  "2024/09/05": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 232,
+    "xp_today": 0
+  },
+  "2024/09/06": {
+    "number_of_sessions": 1,
+    "session_time": 161,
+    "streak": 233,
+    "xp_today": 20
+  },
+  "2024/09/07": {
+    "number_of_sessions": 1,
+    "session_time": 135,
+    "streak": 234,
+    "xp_today": 15
+  },
+  "2024/09/08": {
+    "number_of_sessions": 4,
+    "session_time": 601,
+    "streak": 235,
+    "xp_today": 179
+  },
+  "2024/09/09": {
+    "number_of_sessions": 2,
+    "session_time": 408,
+    "streak": 236,
+    "xp_today": 65
+  },
+  "2024/09/10": {
+    "number_of_sessions": 1,
+    "session_time": 184,
+    "streak": 237,
+    "xp_today": 10
+  },
+  "2024/09/11": {
+    "number_of_sessions": 2,
+    "session_time": 322,
+    "streak": 238,
+    "xp_today": 65
+  },
+  "2024/09/12": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 239,
+    "xp_today": 0
+  },
+  "2024/09/13": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 240,
+    "xp_today": 25
+  },
+  "2024/09/14": {
+    "number_of_sessions": 1,
+    "session_time": 58,
+    "streak": 241,
+    "xp_today": 10
+  },
+  "2024/09/15": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 242,
+    "xp_today": 35
+  },
+  "2024/09/16": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 243,
+    "xp_today": 34
+  },
+  "2024/09/17": {
+    "number_of_sessions": 1,
+    "session_time": 87,
+    "streak": 244,
+    "xp_today": 10
+  },
+  "2024/09/18": {
+    "number_of_sessions": 1,
+    "session_time": 318,
+    "streak": 245,
+    "xp_today": 33
+  },
+  "2024/09/19": {
+    "number_of_sessions": 1,
+    "session_time": 55,
+    "streak": 246,
+    "xp_today": 10
+  },
+  "2024/09/20": {
+    "number_of_sessions": 1,
+    "session_time": 119,
+    "streak": 247,
+    "xp_today": 30
+  },
+  "2024/09/21": {
+    "number_of_sessions": 1,
+    "session_time": 60,
+    "streak": 248,
+    "xp_today": 15
+  },
+  "2024/09/22": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 249,
+    "xp_today": 10
+  },
+  "2024/09/23": {
+    "number_of_sessions": 1,
+    "session_time": 54,
+    "streak": 250,
+    "xp_today": 10
+  },
+  "2024/09/24": {
+    "number_of_sessions": 6,
+    "session_time": 2822,
+    "streak": 251,
+    "xp_today": 105
+  },
+  "2024/09/25": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 252,
+    "xp_today": 0
+  },
+  "2024/09/26": {
+    "number_of_sessions": 1,
+    "session_time": 195,
+    "streak": 253,
+    "xp_today": 10
+  },
+  "2024/09/27": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 254,
+    "xp_today": 35
+  },
+  "2024/09/28": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 255,
+    "xp_today": 0
+  },
+  "2024/09/29": {
+    "number_of_sessions": 3,
+    "session_time": 1061,
+    "streak": 256,
+    "xp_today": 102
+  },
+  "2024/09/30": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 257,
+    "xp_today": 0
+  },
+  "2024/10/01": {
+    "number_of_sessions": 1,
+    "session_time": 483,
+    "streak": 258,
+    "xp_today": 37
+  },
+  "2024/10/02": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 259,
+    "xp_today": 8
+  },
+  "2024/10/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 260,
+    "xp_today": 0
+  },
+  "2024/10/04": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 261,
+    "xp_today": 0
+  },
+  "2024/10/05": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 262,
+    "xp_today": 20
+  },
+  "2024/10/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 263,
+    "xp_today": 0
+  },
+  "2024/10/07": {
+    "number_of_sessions": 8,
+    "session_time": 2919,
+    "streak": 264,
+    "xp_today": 125
+  },
+  "2024/10/08": {
+    "number_of_sessions": 7,
+    "session_time": 3961,
+    "streak": 265,
+    "xp_today": 130
+  },
+  "2024/10/09": {
+    "number_of_sessions": 8,
+    "session_time": 4198,
+    "streak": 266,
+    "xp_today": 225
+  },
+  "2024/10/10": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 267,
+    "xp_today": 35
+  },
+  "2024/10/11": {
+    "number_of_sessions": 2,
+    "session_time": 517,
+    "streak": 268,
+    "xp_today": 43
+  },
+  "2024/10/12": {
+    "number_of_sessions": 1,
+    "session_time": 92,
+    "streak": 269,
+    "xp_today": 15
+  },
+  "2024/10/13": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 270,
+    "xp_today": 35
+  },
+  "2024/10/14": {
+    "number_of_sessions": 1,
+    "session_time": 470,
+    "streak": 271,
+    "xp_today": 35
+  },
+  "2024/10/15": {
+    "number_of_sessions": 1,
+    "session_time": 463,
+    "streak": 272,
+    "xp_today": 40
+  },
+  "2024/10/16": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 273,
+    "xp_today": 30
+  },
+  "2024/10/17": {
+    "number_of_sessions": 1,
+    "session_time": 241,
+    "streak": 274,
+    "xp_today": 35
+  },
+  "2024/10/18": {
+    "number_of_sessions": 1,
+    "session_time": 306,
+    "streak": 275,
+    "xp_today": 35
+  },
+  "2024/10/19": {
+    "number_of_sessions": 1,
+    "session_time": 291,
+    "streak": 276,
+    "xp_today": 33
+  },
+  "2024/10/20": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 277,
+    "xp_today": 33
+  },
+  "2024/10/21": {
+    "number_of_sessions": 3,
+    "session_time": 1000,
+    "streak": 278,
+    "xp_today": 117
+  },
+  "2024/10/22": {
+    "number_of_sessions": 9,
+    "session_time": 3178,
+    "streak": 279,
+    "xp_today": 274
+  },
+  "2024/10/23": {
+    "number_of_sessions": 1,
+    "session_time": 569,
+    "streak": 280,
+    "xp_today": 10
+  },
+  "2024/10/24": {
+    "number_of_sessions": 2,
+    "session_time": 679,
+    "streak": 281,
+    "xp_today": 77
+  },
+  "2024/10/25": {
+    "number_of_sessions": 2,
+    "session_time": 196,
+    "streak": 282,
+    "xp_today": 40
+  },
+  "2024/10/26": {
+    "number_of_sessions": 1,
+    "session_time": 118,
+    "streak": 283,
+    "xp_today": 15
+  },
+  "2024/10/27": {
+    "number_of_sessions": 1,
+    "session_time": 85,
+    "streak": 284,
+    "xp_today": 10
+  },
+  "2024/10/28": {
+    "number_of_sessions": 2,
+    "session_time": 1011,
+    "streak": 285,
+    "xp_today": 72
+  },
+  "2024/10/29": {
+    "number_of_sessions": 1,
+    "session_time": 403,
+    "streak": 286,
+    "xp_today": 33
+  },
+  "2024/10/30": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 287,
+    "xp_today": 0
+  },
+  "2024/10/31": {
+    "number_of_sessions": 1,
+    "session_time": 506,
+    "streak": 288,
+    "xp_today": 7
+  },
+  "2024/11/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 289,
+    "xp_today": 0
+  },
+  "2024/11/02": {
+    "number_of_sessions": 4,
+    "session_time": 2006,
+    "streak": 290,
+    "xp_today": 136
+  },
+  "2024/11/03": {
+    "number_of_sessions": 11,
+    "session_time": 5430,
+    "streak": 291,
+    "xp_today": 443
+  },
+  "2024/11/04": {
+    "number_of_sessions": 8,
+    "session_time": 3451,
+    "streak": 292,
+    "xp_today": 289
+  },
+  "2024/11/05": {
+    "number_of_sessions": 2,
+    "session_time": 1317,
+    "streak": 293,
+    "xp_today": 69
+  },
+  "2024/11/06": {
+    "number_of_sessions": 1,
+    "session_time": 85,
+    "streak": 294,
+    "xp_today": 10
+  },
+  "2024/11/07": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 295,
+    "xp_today": 35
+  },
+  "2024/11/08": {
+    "number_of_sessions": 2,
+    "session_time": 806,
+    "streak": 296,
+    "xp_today": 75
+  },
+  "2024/11/09": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 297,
+    "xp_today": 30
+  },
+  "2024/11/10": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 298,
+    "xp_today": 0
+  },
+  "2024/11/11": {
+    "number_of_sessions": 7,
+    "session_time": 3897,
+    "streak": 299,
+    "xp_today": 301
+  },
+  "2024/11/12": {
+    "number_of_sessions": 1,
+    "session_time": 145,
+    "streak": 300,
+    "xp_today": 10
+  },
+  "2024/11/13": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 301,
+    "xp_today": 25
+  },
+  "2024/11/14": {
+    "number_of_sessions": 1,
+    "session_time": 380,
+    "streak": 302,
+    "xp_today": 32
+  },
+  "2024/11/15": {
+    "number_of_sessions": 3,
+    "session_time": 1206,
+    "streak": 303,
+    "xp_today": 97
+  },
+  "2024/11/16": {
+    "number_of_sessions": 5,
+    "session_time": 1993,
+    "streak": 304,
+    "xp_today": 79
+  },
+  "2024/11/17": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 305,
+    "xp_today": 34
+  },
+  "2024/11/18": {
+    "number_of_sessions": 1,
+    "session_time": 75,
+    "streak": 306,
+    "xp_today": 10
+  },
+  "2024/11/19": {
+    "number_of_sessions": 1,
+    "session_time": 52,
+    "streak": 307,
+    "xp_today": 10
+  },
+  "2024/11/20": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 308,
+    "xp_today": 0
+  },
+  "2024/11/21": {
+    "number_of_sessions": 2,
+    "session_time": 281,
+    "streak": 309,
+    "xp_today": 30
+  },
+  "2024/11/22": {
+    "number_of_sessions": 1,
+    "session_time": 438,
+    "streak": 310,
+    "xp_today": 33
+  },
+  "2024/11/23": {
+    "number_of_sessions": 1,
+    "session_time": 81,
+    "streak": 311,
+    "xp_today": 10
+  },
+  "2024/11/24": {
+    "number_of_sessions": 2,
+    "session_time": 178,
+    "streak": 312,
+    "xp_today": 15
+  },
+  "2024/11/25": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 313,
+    "xp_today": 34
+  },
+  "2024/11/26": {
+    "number_of_sessions": 1,
+    "session_time": 65,
+    "streak": 314,
+    "xp_today": 10
+  },
+  "2024/11/27": {
+    "number_of_sessions": 3,
+    "session_time": 1580,
+    "streak": 315,
+    "xp_today": 105
+  },
+  "2024/11/28": {
+    "number_of_sessions": 2,
+    "session_time": 779,
+    "streak": 316,
+    "xp_today": 60
+  },
+  "2024/11/29": {
+    "number_of_sessions": 3,
+    "session_time": 760,
+    "streak": 317,
+    "xp_today": 88
+  },
+  "2024/11/30": {
+    "number_of_sessions": 5,
+    "session_time": 1161,
+    "streak": 318,
+    "xp_today": 165
+  },
+  "2024/12/01": {
+    "number_of_sessions": 2,
+    "session_time": 201,
+    "streak": 319,
+    "xp_today": 40
+  },
+  "2024/12/02": {
+    "number_of_sessions": 1,
+    "session_time": 88,
+    "streak": 320,
+    "xp_today": 10
+  },
+  "2024/12/03": {
+    "number_of_sessions": 1,
+    "session_time": 52,
+    "streak": 321,
+    "xp_today": 10
+  },
+  "2024/12/04": {
+    "number_of_sessions": 1,
+    "session_time": 77,
+    "streak": 322,
+    "xp_today": 10
+  },
+  "2024/12/05": {
+    "number_of_sessions": 1,
+    "session_time": 235,
+    "streak": 323,
+    "xp_today": 20
+  },
+  "2024/12/06": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 324,
+    "xp_today": 32
+  },
+  "2024/12/07": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 325,
+    "xp_today": 0
+  },
+  "2024/12/08": {
+    "number_of_sessions": 1,
+    "session_time": 58,
+    "streak": 326,
+    "xp_today": 10
+  },
+  "2024/12/09": {
+    "number_of_sessions": 1,
+    "session_time": 58,
+    "streak": 327,
+    "xp_today": 10
+  },
+  "2024/12/10": {
+    "number_of_sessions": 1,
+    "session_time": 237,
+    "streak": 328,
+    "xp_today": 10
+  },
+  "2024/12/11": {
+    "number_of_sessions": 1,
+    "session_time": 379,
+    "streak": 329,
+    "xp_today": 32
+  },
+  "2024/12/12": {
+    "number_of_sessions": 1,
+    "session_time": 200,
+    "streak": 330,
+    "xp_today": 14
+  },
+  "2024/12/13": {
+    "number_of_sessions": 1,
+    "session_time": 195,
+    "streak": 331,
+    "xp_today": 42
+  },
+  "2024/12/14": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 332,
+    "xp_today": 20
+  },
+  "2024/12/15": {
+    "number_of_sessions": 1,
+    "session_time": 100,
+    "streak": 333,
+    "xp_today": 30
+  },
+  "2024/12/16": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 334,
+    "xp_today": 42
+  },
+  "2024/12/17": {
+    "number_of_sessions": 3,
+    "session_time": 1118,
+    "streak": 335,
+    "xp_today": 133
+  },
+  "2024/12/18": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 336,
+    "xp_today": 0
+  },
+  "2024/12/19": {
+    "number_of_sessions": 2,
+    "session_time": 1320,
+    "streak": 337,
+    "xp_today": 62
+  },
+  "2024/12/20": {
+    "number_of_sessions": 1,
+    "session_time": 145,
+    "streak": 338,
+    "xp_today": 8
+  },
+  "2024/12/21": {
+    "number_of_sessions": 1,
+    "session_time": 195,
+    "streak": 339,
+    "xp_today": 47
+  },
+  "2024/12/22": {
+    "number_of_sessions": 1,
+    "session_time": 34,
+    "streak": 340,
+    "xp_today": 10
+  },
+  "2024/12/23": {
+    "number_of_sessions": 1,
+    "session_time": 119,
+    "streak": 341,
+    "xp_today": 10
+  },
+  "2024/12/24": {
+    "number_of_sessions": 1,
+    "session_time": 120,
+    "streak": 342,
+    "xp_today": 10
+  },
+  "2024/12/25": {
+    "number_of_sessions": 1,
+    "session_time": 225,
+    "streak": 343,
+    "xp_today": 24
+  },
+  "2024/12/26": {
+    "number_of_sessions": 7,
+    "session_time": 809,
+    "streak": 344,
+    "xp_today": 236
+  },
+  "2024/12/27": {
+    "number_of_sessions": 1,
+    "session_time": 84,
+    "streak": 345,
+    "xp_today": 10
+  },
+  "2024/12/28": {
+    "number_of_sessions": 1,
+    "session_time": 74,
+    "streak": 346,
+    "xp_today": 10
+  },
+  "2024/12/29": {
+    "number_of_sessions": 1,
+    "session_time": 47,
+    "streak": 347,
+    "xp_today": 10
+  },
+  "2024/12/30": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 348,
+    "xp_today": 35
+  },
+  "2024/12/31": {
+    "number_of_sessions": 4,
+    "session_time": 2640,
+    "streak": 349,
+    "xp_today": 55
+  },
+  "2025/01/01": {
+    "number_of_sessions": 2,
+    "session_time": 811,
+    "streak": 350,
+    "xp_today": 30
+  },
+  "2025/01/02": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 351,
+    "xp_today": 10
+  },
+  "2025/01/03": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 352,
+    "xp_today": 0
+  },
+  "2025/01/04": {
+    "number_of_sessions": 2,
+    "session_time": 247,
+    "streak": 353,
+    "xp_today": 30
+  },
+  "2025/01/05": {
+    "number_of_sessions": 1,
+    "session_time": 207,
+    "streak": 354,
+    "xp_today": 9
+  },
+  "2025/01/06": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 355,
+    "xp_today": 0
+  },
+  "2025/01/07": {
+    "number_of_sessions": 1,
+    "session_time": 365,
+    "streak": 356,
+    "xp_today": 10
+  },
+  "2025/01/08": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 357,
+    "xp_today": 0
+  },
+  "2025/01/09": {
+    "number_of_sessions": 1,
+    "session_time": 100,
+    "streak": 358,
+    "xp_today": 10
+  },
+  "2025/01/10": {
+    "number_of_sessions": 1,
+    "session_time": 38,
+    "streak": 359,
+    "xp_today": 10
+  },
+  "2025/01/11": {
+    "number_of_sessions": 1,
+    "session_time": 55,
+    "streak": 360,
+    "xp_today": 10
+  },
+  "2025/01/12": {
+    "number_of_sessions": 1,
+    "session_time": 178,
+    "streak": 361,
+    "xp_today": 20
+  },
+  "2025/01/13": {
+    "number_of_sessions": 1,
+    "session_time": 90,
+    "streak": 362,
+    "xp_today": 10
+  },
+  "2025/01/14": {
+    "number_of_sessions": 1,
+    "session_time": 78,
+    "streak": 363,
+    "xp_today": 10
+  },
+  "2025/01/15": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 364,
+    "xp_today": 8
+  },
+  "2025/01/16": {
+    "number_of_sessions": 1,
+    "session_time": 44,
+    "streak": 365,
+    "xp_today": 9
+  },
+  "2025/01/17": {
+    "number_of_sessions": 1,
+    "session_time": 50,
+    "streak": 366,
+    "xp_today": 10
+  },
+  "2025/01/18": {
+    "number_of_sessions": 1,
+    "session_time": 125,
+    "streak": 367,
+    "xp_today": 10
+  },
+  "2025/01/19": {
+    "number_of_sessions": 1,
+    "session_time": 59,
+    "streak": 368,
+    "xp_today": 10
+  },
+  "2025/01/20": {
+    "number_of_sessions": 1,
+    "session_time": 52,
+    "streak": 369,
+    "xp_today": 10
+  },
+  "2025/01/21": {
+    "number_of_sessions": 1,
+    "session_time": 474,
+    "streak": 370,
+    "xp_today": 30
+  },
+  "2025/01/22": {
+    "number_of_sessions": 1,
+    "session_time": 108,
+    "streak": 371,
+    "xp_today": 30
+  },
+  "2025/01/23": {
+    "number_of_sessions": 1,
+    "session_time": 213,
+    "streak": 372,
+    "xp_today": 35
+  },
+  "2025/01/24": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 373,
+    "xp_today": 0
+  },
+  "2025/01/25": {
+    "number_of_sessions": 1,
+    "session_time": 62,
+    "streak": 374,
+    "xp_today": 10
+  },
+  "2025/01/26": {
+    "number_of_sessions": 1,
+    "session_time": 336,
+    "streak": 375,
+    "xp_today": 10
+  },
+  "2025/01/27": {
+    "number_of_sessions": 1,
+    "session_time": 250,
+    "streak": 376,
+    "xp_today": 33
+  },
+  "2025/01/28": {
+    "number_of_sessions": 1,
+    "session_time": 145,
+    "streak": 377,
+    "xp_today": 10
+  },
+  "2025/01/29": {
+    "number_of_sessions": 1,
+    "session_time": 19,
+    "streak": 378,
+    "xp_today": 8
+  },
+  "2025/01/30": {
+    "number_of_sessions": 1,
+    "session_time": 530,
+    "streak": 379,
+    "xp_today": 34
+  },
+  "2025/01/31": {
+    "number_of_sessions": 3,
+    "session_time": 455,
+    "streak": 380,
+    "xp_today": 74
+  },
+  "2025/02/01": {
+    "number_of_sessions": 1,
+    "session_time": 44,
+    "streak": 381,
+    "xp_today": 10
+  },
+  "2025/02/02": {
+    "number_of_sessions": 1,
+    "session_time": 264,
+    "streak": 382,
+    "xp_today": 34
+  },
+  "2025/02/03": {
+    "number_of_sessions": 1,
+    "session_time": 67,
+    "streak": 383,
+    "xp_today": 23
+  },
+  "2025/02/04": {
+    "number_of_sessions": 1,
+    "session_time": 60,
+    "streak": 384,
+    "xp_today": 10
+  },
+  "2025/02/05": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 385,
+    "xp_today": 32
+  },
+  "2025/02/06": {
+    "number_of_sessions": 1,
+    "session_time": 308,
+    "streak": 386,
+    "xp_today": 53
+  },
+  "2025/02/07": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 387,
+    "xp_today": 10
+  },
+  "2025/02/08": {
+    "number_of_sessions": 2,
+    "session_time": 90,
+    "streak": 388,
+    "xp_today": 15
+  },
+  "2025/02/09": {
+    "number_of_sessions": 1,
+    "session_time": 100,
+    "streak": 389,
+    "xp_today": 10
+  },
+  "2025/02/10": {
+    "number_of_sessions": 1,
+    "session_time": 38,
+    "streak": 390,
+    "xp_today": 10
+  },
+  "2025/02/11": {
+    "number_of_sessions": 1,
+    "session_time": 40,
+    "streak": 391,
+    "xp_today": 9
+  },
+  "2025/02/12": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 392,
+    "xp_today": 10
+  },
+  "2025/02/13": {
+    "number_of_sessions": 1,
+    "session_time": 322,
+    "streak": 393,
+    "xp_today": 10
+  },
+  "2025/02/14": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 394,
+    "xp_today": 20
+  },
+  "2025/02/15": {
+    "number_of_sessions": 1,
+    "session_time": 82,
+    "streak": 395,
+    "xp_today": 10
+  },
+  "2025/02/16": {
+    "number_of_sessions": 11,
+    "session_time": 3479,
+    "streak": 396,
+    "xp_today": 442
+  },
+  "2025/02/17": {
+    "number_of_sessions": 7,
+    "session_time": 4372,
+    "streak": 397,
+    "xp_today": 293
+  },
+  "2025/02/18": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 398,
+    "xp_today": 34
+  },
+  "2025/02/19": {
+    "number_of_sessions": 3,
+    "session_time": 993,
+    "streak": 399,
+    "xp_today": 73
+  },
+  "2025/02/20": {
+    "number_of_sessions": 2,
+    "session_time": 740,
+    "streak": 400,
+    "xp_today": 68
+  },
+  "2025/02/21": {
+    "number_of_sessions": 1,
+    "session_time": 80,
+    "streak": 401,
+    "xp_today": 10
+  },
+  "2025/02/22": {
+    "number_of_sessions": 1,
+    "session_time": 74,
+    "streak": 402,
+    "xp_today": 10
+  },
+  "2025/02/23": {
+    "number_of_sessions": 22,
+    "session_time": 12732,
+    "streak": 403,
+    "xp_today": 364
+  },
+  "2025/02/24": {
+    "number_of_sessions": 3,
+    "session_time": 1754,
+    "streak": 404,
+    "xp_today": 48
+  },
+  "2025/02/25": {
+    "number_of_sessions": 19,
+    "session_time": 9727,
+    "streak": 405,
+    "xp_today": 282
+  },
+  "2025/02/26": {
+    "number_of_sessions": 15,
+    "session_time": 8632,
+    "streak": 406,
+    "xp_today": 251
+  },
+  "2025/02/27": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 407,
+    "xp_today": 33
+  },
+  "2025/02/28": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 408,
+    "xp_today": 33
+  },
+  "2025/03/01": {
+    "number_of_sessions": 1,
+    "session_time": 132,
+    "streak": 409,
+    "xp_today": 20
+  },
+  "2025/03/02": {
+    "number_of_sessions": 1,
+    "session_time": 36,
+    "streak": 410,
+    "xp_today": 10
+  },
+  "2025/03/03": {
+    "number_of_sessions": 9,
+    "session_time": 4679,
+    "streak": 411,
+    "xp_today": 229
+  },
+  "2025/03/04": {
+    "number_of_sessions": 13,
+    "session_time": 7576,
+    "streak": 412,
+    "xp_today": 262
+  },
+  "2025/03/05": {
+    "number_of_sessions": 11,
+    "session_time": 6868,
+    "streak": 413,
+    "xp_today": 253
+  }
+}
