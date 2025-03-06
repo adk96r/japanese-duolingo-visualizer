@@ -168,7 +168,7 @@
       async function getDataFromJSON() {
         const port = window.location.port;
         const url = `${window.location.protocol}//${window.location.hostname}${port ? ":" + port : ""}`;
-        const response = await fetch(`${url}/data/duolingo-progress.json`);
+        const response = await fetch(`${url}/japanese-duolingo-visualizer/duolingo-progress.json`);
 
         return response.json();
       }
